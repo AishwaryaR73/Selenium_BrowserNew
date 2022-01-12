@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NOP Automation Testing Example">
+
+		
+		<listeners>
+		<listener class-name="nopUtility.TestMessage"></listener>
+		<!-- <listener class-name="nopUtility.ScreenShot"></listener> -->
+		<listener class-name="nopUtility.ExtentReport"></listener>
+		<listener
+			class-name="retryLogicExamples.MyTransformerListner"></listener>
+	</listeners>
+	<test name="Test">
+		<classes>
+		<class name="nopTests.AddCustomer" />
+			<!-- <class name="nopTests.AddCuss"/> -->
+			<class name="nopTests.Login" />
+			<class name="nopTests.SearchCustomer" />
+		</classes>
+		
+			
+		
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

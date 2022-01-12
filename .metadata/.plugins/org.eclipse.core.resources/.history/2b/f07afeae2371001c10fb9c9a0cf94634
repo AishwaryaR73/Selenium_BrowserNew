@@ -1,0 +1,15 @@
+package nopCommerceTests;
+
+import org.testng.annotations.Test;
+
+public class LoginTest extends BaseTest {
+	
+	@Test
+	public void data() {
+		lp.getUn("admin@yourstore.com");
+		lp.getpwd("admin");
+		lp.clickLoginButton();
+		lp.clickLogoutButton();
+	}
+
+}

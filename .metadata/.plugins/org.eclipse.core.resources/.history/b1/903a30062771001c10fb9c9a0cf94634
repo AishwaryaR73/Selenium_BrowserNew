@@ -1,0 +1,28 @@
+package nopCommerceTests;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import utility.Contants;
+
+public class LoginTest extends BaseTest {
+	
+	@Test
+	public void data() {
+		log.info("Enter Username");
+		lp.getUn(prop.getProperty("username"));
+		log.info("Enter Password");
+		lp.getpwd(prop.getProperty("password"));
+		log.info("Click On Login Button");
+		lp.clickLoginButton();
+		log.info("Verifying The Home Page Logo Img");
+		Assert.assertTrue(lp.imgLogoDisplay(), "Validation of application logo");
+		log.info("Click On Logout Button");
+		log.info("Verifying The Home Page Title");
+		System.out.println("The page title is:"+driver.getTitle());
+		lp.clickLogoutButton();
+		
+		
+	}
+
+}

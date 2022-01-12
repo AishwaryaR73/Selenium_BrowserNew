@@ -1,0 +1,36 @@
+2021-12-22 16:23:26,588 - LT_Logger -INFO - ******************************
+2021-12-22 16:23:26,588 [main] INFO LT_Logger - ******************************
+2021-12-22 16:23:26,595 - LT_Logger -INFO - HRM Application launched.
+2021-12-22 16:23:26,595 [main] INFO LT_Logger - HRM Application launched.
+2021-12-22 16:23:26,723 - LT_Logger -INFO - Entered UserName
+2021-12-22 16:23:26,723 [main] INFO LT_Logger - Entered UserName
+2021-12-22 16:23:26,827 - LT_Logger -INFO - Entered Password
+2021-12-22 16:23:26,827 [main] INFO LT_Logger - Entered Password
+2021-12-22 16:23:28,318 - LT_Logger -INFO - Clicked on Loggin Button
+2021-12-22 16:23:28,318 [main] INFO LT_Logger - Clicked on Loggin Button
+2021-12-22 16:23:28,514 - LT_Logger -INFO - Dashboard verification ------ passed
+2021-12-22 16:23:28,514 [main] INFO LT_Logger - Dashboard verification ------ passed
+2021-12-24 08:03:10,738 - LT_Logger -INFO - ******************************
+2021-12-24 08:03:10,738 [main] INFO LT_Logger - ******************************
+2021-12-24 08:03:10,747 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 08:03:10,747 [main] INFO LT_Logger - HRM Application launched.
+2021-12-24 08:03:11,003 - LT_Logger -INFO - Entered UserName
+2021-12-24 08:03:11,003 [main] INFO LT_Logger - Entered UserName
+2021-12-24 08:03:11,164 - LT_Logger -INFO - Entered Password
+2021-12-24 08:03:11,164 [main] INFO LT_Logger - Entered Password
+2021-12-24 08:03:11,199 - LT_Logger -INFO - ******************************
+2021-12-24 08:03:11,199 [main] INFO LT_Logger - ******************************
+2021-12-24 08:03:11,205 - LT_Logger -INFO - HRM Application launched.
+2021-12-24 08:03:11,205 [main] INFO LT_Logger - HRM Application launched.
+2021-12-24 08:03:11,361 - LT_Logger -INFO - Entered UserName
+2021-12-24 08:03:11,361 [main] INFO LT_Logger - Entered UserName
+2021-12-24 08:03:11,484 - LT_Logger -INFO - Entered Password
+2021-12-24 08:03:11,484 [main] INFO LT_Logger - Entered Password
+2021-12-24 08:03:12,645 - LT_Logger -INFO - Clicked on Loggin Button
+2021-12-24 08:03:12,645 [main] INFO LT_Logger - Clicked on Loggin Button
+2021-12-24 08:03:12,690 - LT_Logger -INFO - Dashboard verification ------ passed
+2021-12-24 08:03:12,690 [main] INFO LT_Logger - Dashboard verification ------ passed
+2021-12-24 08:03:13,073 - LT_Logger -INFO - Clicked on Loggin Button
+2021-12-24 08:03:13,073 [main] INFO LT_Logger - Clicked on Loggin Button
+2021-12-24 08:03:13,130 - LT_Logger -INFO - Dashboard verification ------ passed
+2021-12-24 08:03:13,130 [main] INFO LT_Logger - Dashboard verification ------ passed

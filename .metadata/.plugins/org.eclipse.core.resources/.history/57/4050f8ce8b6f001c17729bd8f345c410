@@ -1,0 +1,7 @@
+package extentReport;
+
+import org.testng.TestListenerAdapter;
+
+public class ExtentExample extends TestListenerAdapter{
+
+}

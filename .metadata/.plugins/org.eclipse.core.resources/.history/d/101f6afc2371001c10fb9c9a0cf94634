@@ -1,0 +1,19 @@
+package nopCommerceTests;
+
+import org.testng.annotations.Test;
+
+public class LoginTest extends BaseTest {
+	
+	@Test
+	public void data() {
+		log.info("Enter Username");
+		lp.getUn(prop.getProperty("username"));
+		log.info("Enter Password");
+		lp.getpwd(prop.getProperty("admin"));
+		log.info("Click On Login Button");
+		lp.clickLoginButton();
+		log.info("Click On Logout Button");
+		lp.clickLogoutButton();
+	}
+
+}

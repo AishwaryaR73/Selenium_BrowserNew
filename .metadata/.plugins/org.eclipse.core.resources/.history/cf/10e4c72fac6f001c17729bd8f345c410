@@ -1,0 +1,5 @@
+package com.org.lnt.action;
+
+public class Calculator {
+
+}

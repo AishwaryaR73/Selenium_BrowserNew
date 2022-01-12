@@ -1,0 +1,23 @@
+package orPages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class LoginPage{
+	WebDriver driver;
+public LoginPage(WebDriver rdriver){
+	this.driver=rdriver;
+	PageFactory.initElements(driver, this);
+}
+	
+
+
+{
+	@FindBy()
+	WebElement username;
+	@FindBy()
+	WebElement password;
+
+}

@@ -1,0 +1,160 @@
+2022-01-09 13:37:59,573 - NOPCommerce_log -INFO - Enter username
+2022-01-09 13:37:59,573 [main] INFO NOPCommerce_log - Enter username
+2022-01-09 13:37:59,737 - NOPCommerce_log -INFO - Enter password
+2022-01-09 13:37:59,737 [main] INFO NOPCommerce_log - Enter password
+2022-01-09 13:38:02,432 - NOPCommerce_log -INFO - Click on login button
+2022-01-09 13:38:02,432 [main] INFO NOPCommerce_log - Click on login button
+2022-01-09 13:39:04,002 - NOPCommerce_log -INFO - Enter username
+2022-01-09 13:39:04,002 [main] INFO NOPCommerce_log - Enter username
+2022-01-09 13:39:04,160 - NOPCommerce_log -INFO - Enter password
+2022-01-09 13:39:04,160 [main] INFO NOPCommerce_log - Enter password
+2022-01-09 13:39:08,819 - NOPCommerce_log -INFO - Click on login button
+2022-01-09 13:39:08,819 [main] INFO NOPCommerce_log - Click on login button
+2022-01-09 13:42:37,836 - NOPCommerce_log -INFO - Enter Username
+2022-01-09 13:42:37,836 [main] INFO NOPCommerce_log - Enter Username
+2022-01-09 13:42:38,027 - NOPCommerce_log -INFO - Enter Password
+2022-01-09 13:42:38,027 [main] INFO NOPCommerce_log - Enter Password
+2022-01-09 13:43:20,189 - NOPCommerce_log -INFO - Enter Username
+2022-01-09 13:43:20,189 [main] INFO NOPCommerce_log - Enter Username
+2022-01-09 13:43:20,384 - NOPCommerce_log -INFO - Enter Password
+2022-01-09 13:43:20,384 [main] INFO NOPCommerce_log - Enter Password
+2022-01-09 13:43:20,542 - NOPCommerce_log -INFO - Click On Login Button
+2022-01-09 13:43:20,542 [main] INFO NOPCommerce_log - Click On Login Button
+2022-01-09 13:43:23,130 - NOPCommerce_log -INFO - Click On Logout Button
+2022-01-09 13:43:23,130 [main] INFO NOPCommerce_log - Click On Logout Button
+2022-01-09 13:54:37,471 - NOPCommerce_log -INFO - Enter Username
+2022-01-09 13:54:37,471 [main] INFO NOPCommerce_log - Enter Username
+2022-01-09 13:54:37,677 - NOPCommerce_log -INFO - Enter Password
+2022-01-09 13:54:37,677 [main] INFO NOPCommerce_log - Enter Password
+2022-01-09 13:54:37,845 - NOPCommerce_log -INFO - Click On Login Button
+2022-01-09 13:54:37,845 [main] INFO NOPCommerce_log - Click On Login Button
+2022-01-09 13:54:41,340 - NOPCommerce_log -INFO - Click On Logout Button
+2022-01-09 13:54:41,340 [main] INFO NOPCommerce_log - Click On Logout Button
+2022-01-09 14:11:02,233 - NOPCommerce_log -INFO - Home page is open
+2022-01-09 14:11:02,233 [main] INFO NOPCommerce_log - Home page is open
+2022-01-09 14:12:52,160 - NOPCommerce_log -INFO - Home page is open
+2022-01-09 14:12:52,160 [main] INFO NOPCommerce_log - Home page is open
+2022-01-10 12:15:58,635 - NOPCommerce_log -INFO - Home page is open
+2022-01-10 12:15:58,635 [main] INFO NOPCommerce_log - Home page is open
+2022-01-10 12:17:20,275 - NOPCommerce_log -INFO - Home page is open
+2022-01-10 12:17:20,275 [main] INFO NOPCommerce_log - Home page is open
+2022-01-10 12:18:48,234 - NOPCommerce_log -INFO - Home page is open
+2022-01-10 12:18:48,234 [main] INFO NOPCommerce_log - Home page is open
+2022-01-10 12:22:35,331 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:22:35,331 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:22:37,459 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:22:37,459 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:22:44,045 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:22:44,045 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:22:44,127 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:22:44,127 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:22:57,115 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:22:57,115 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:22:59,260 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:22:59,260 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:23:03,940 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:23:03,940 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:23:04,079 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:23:04,079 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:23:42,138 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:23:42,138 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:23:44,261 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:23:44,261 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:23:49,670 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:23:49,670 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:23:49,755 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:23:49,755 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:24:00,852 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:24:00,852 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:24:02,970 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:24:02,970 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:24:07,964 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:24:07,964 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:24:08,099 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:24:08,099 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:24:41,743 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:24:41,743 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:24:43,872 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:24:43,872 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:24:48,869 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:24:48,869 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:24:48,971 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:24:48,971 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:24:49,264 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 12:24:49,264 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 12:25:08,293 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:25:08,293 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:25:10,417 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:25:10,417 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:25:15,140 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:25:15,140 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:25:15,274 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:25:15,274 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:25:15,727 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 12:25:15,727 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 12:25:15,949 - NOPCommerce_log -INFO - Verify the expected result to the actual result
+2022-01-10 12:25:15,949 [main] INFO NOPCommerce_log - Verify the expected result to the actual result
+2022-01-10 12:26:37,892 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:26:37,892 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:26:40,016 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:26:40,016 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:26:45,356 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:26:45,356 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:26:56,415 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:26:56,415 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:26:58,568 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:26:58,568 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:27:03,267 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:27:03,267 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:27:03,347 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:27:03,347 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:27:03,512 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 12:27:03,512 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 12:29:04,977 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 12:29:04,977 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 12:29:07,181 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 12:29:07,181 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 12:29:12,281 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 12:29:12,281 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 12:29:12,437 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 12:29:12,437 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 12:29:12,929 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 12:29:12,929 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 13:47:08,821 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 13:47:08,821 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 13:47:11,057 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 13:47:11,057 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 13:47:16,079 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 13:47:16,079 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 13:47:16,192 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 13:47:16,192 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 13:47:16,416 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 13:47:16,416 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 13:47:32,512 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 13:47:32,512 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 13:47:34,645 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 13:47:34,645 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 13:47:40,064 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 13:47:40,064 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 13:47:40,216 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 13:47:40,216 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 13:47:40,572 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 13:47:40,572 [main] INFO NOPCommerce_log - Click on search button
+2022-01-10 13:47:40,850 - NOPCommerce_log -INFO - Verify the expected result to the actual result
+2022-01-10 13:47:40,850 [main] INFO NOPCommerce_log - Verify the expected result to the actual result
+2022-01-10 13:49:24,019 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 13:49:24,019 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 13:49:26,179 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 13:49:26,179 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 13:49:31,312 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 13:49:31,312 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 13:49:40,900 - NOPCommerce_log -INFO - Click on customer tab
+2022-01-10 13:49:40,900 [main] INFO NOPCommerce_log - Click on customer tab
+2022-01-10 13:49:43,062 - NOPCommerce_log -INFO - Click on sub customer tab
+2022-01-10 13:49:43,062 [main] INFO NOPCommerce_log - Click on sub customer tab
+2022-01-10 13:49:48,228 - NOPCommerce_log -INFO - Click on search text
+2022-01-10 13:49:48,228 [main] INFO NOPCommerce_log - Click on search text
+2022-01-10 13:49:48,320 - NOPCommerce_log -INFO - Enter the email id
+2022-01-10 13:49:48,320 [main] INFO NOPCommerce_log - Enter the email id
+2022-01-10 13:49:48,616 - NOPCommerce_log -INFO - Click on search button
+2022-01-10 13:49:48,616 [main] INFO NOPCommerce_log - Click on search button

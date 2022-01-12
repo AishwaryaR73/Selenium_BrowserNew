@@ -1,0 +1,1604 @@
+2021-12-27 16:23:26,172 - log1 -INFO - Enter username
+2021-12-27 16:23:26,172 [main] INFO log1 - Enter username
+2021-12-27 16:23:26,342 - log1 -INFO - Enter password
+2021-12-27 16:23:26,342 [main] INFO log1 - Enter password
+2021-12-27 16:23:30,030 - log1 -INFO - Click on login button
+2021-12-27 16:23:30,030 [main] INFO log1 - Click on login button
+2021-12-27 16:23:30,761 - log1 -INFO - Click on logout
+2021-12-27 16:23:30,761 [main] INFO log1 - Click on logout
+2021-12-27 17:23:17,926 - log1 -INFO - Enter username
+2021-12-27 17:23:17,926 [main] INFO log1 - Enter username
+2021-12-27 17:23:18,085 - log1 -INFO - Enter password
+2021-12-27 17:23:18,085 [main] INFO log1 - Enter password
+2021-12-27 17:23:22,078 - log1 -INFO - Click on login button
+2021-12-27 17:23:22,078 [main] INFO log1 - Click on login button
+2021-12-27 17:23:23,162 - log1 -INFO - Click on logout
+2021-12-27 17:23:23,162 [main] INFO log1 - Click on logout
+2021-12-27 17:36:37,040 - LT_Logger -INFO - ******************************
+2021-12-27 17:36:37,040 [TestNG-tests-1] INFO LT_Logger - ******************************
+2021-12-27 17:36:37,045 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 17:36:37,045 [TestNG-tests-1] INFO LT_Logger - HRM Application launched.
+2021-12-27 17:36:37,170 - LT_Logger -INFO - Entered UserName
+2021-12-27 17:36:37,170 [TestNG-tests-1] INFO LT_Logger - Entered UserName
+2021-12-27 17:36:37,285 - LT_Logger -INFO - Entered Password
+2021-12-27 17:36:37,285 [TestNG-tests-1] INFO LT_Logger - Entered Password
+2021-12-27 17:36:39,227 - LT_Logger -INFO - Clicked on Loggin Button
+2021-12-27 17:36:39,227 [TestNG-tests-1] INFO LT_Logger - Clicked on Loggin Button
+2021-12-27 17:36:39,270 - LT_Logger -INFO - Dashboard verification ------ passed
+2021-12-27 17:36:39,270 [TestNG-tests-1] INFO LT_Logger - Dashboard verification ------ passed
+2021-12-27 17:44:21,032 - LT_Logger -INFO - ******************************
+2021-12-27 17:44:21,032 [TestNG-tests-1] INFO LT_Logger - ******************************
+2021-12-27 17:44:21,038 - LT_Logger -INFO - HRM Application launched.
+2021-12-27 17:44:21,038 [TestNG-tests-1] INFO LT_Logger - HRM Application launched.
+2021-12-27 17:44:21,154 - LT_Logger -INFO - Entered UserName
+2021-12-27 17:44:21,154 [TestNG-tests-1] INFO LT_Logger - Entered UserName
+2021-12-27 17:44:21,264 - LT_Logger -INFO - Entered Password
+2021-12-27 17:44:21,264 [TestNG-tests-1] INFO LT_Logger - Entered Password
+2021-12-27 17:44:22,760 - LT_Logger -INFO - Clicked on Loggin Button
+2021-12-27 17:44:22,760 [TestNG-tests-1] INFO LT_Logger - Clicked on Loggin Button
+2021-12-27 17:44:22,796 - LT_Logger -INFO - Dashboard verification ------ passed
+2021-12-27 17:44:22,796 [TestNG-tests-1] INFO LT_Logger - Dashboard verification ------ passed
+2021-12-28 12:21:09,283 - log1 -INFO - Enter username
+2021-12-28 12:21:09,283 [main] INFO log1 - Enter username
+2021-12-28 12:21:09,445 - log1 -INFO - Enter password
+2021-12-28 12:21:09,445 [main] INFO log1 - Enter password
+2021-12-28 12:21:13,744 - log1 -INFO - Click on login button
+2021-12-28 12:21:13,744 [main] INFO log1 - Click on login button
+2021-12-28 13:43:57,615 - log1 -INFO - Enter username
+2021-12-28 13:43:57,615 [main] INFO log1 - Enter username
+2021-12-28 13:43:57,775 - log1 -INFO - Enter password
+2021-12-28 13:43:57,775 [main] INFO log1 - Enter password
+2021-12-28 13:44:02,077 - log1 -INFO - Click on login button
+2021-12-28 13:44:02,077 [main] INFO log1 - Click on login button
+2021-12-28 13:45:21,534 - log1 -INFO - Enter username
+2021-12-28 13:45:21,534 [main] INFO log1 - Enter username
+2021-12-28 13:45:21,695 - log1 -INFO - Enter password
+2021-12-28 13:45:21,695 [main] INFO log1 - Enter password
+2021-12-28 13:45:25,761 - log1 -INFO - Click on login button
+2021-12-28 13:45:25,761 [main] INFO log1 - Click on login button
+2021-12-28 13:57:38,040 - log1 -INFO - Click on customer tab
+2021-12-28 13:57:38,040 [main] INFO log1 - Click on customer tab
+2021-12-28 13:57:38,127 - log1 -INFO - Click on sub customer tab
+2021-12-28 13:57:38,127 [main] INFO log1 - Click on sub customer tab
+2021-12-28 13:58:20,581 - log1 -INFO - Enter username
+2021-12-28 13:58:20,581 [main] INFO log1 - Enter username
+2021-12-28 13:58:20,732 - log1 -INFO - Enter password
+2021-12-28 13:58:20,732 [main] INFO log1 - Enter password
+2021-12-28 13:58:24,746 - log1 -INFO - Click on login button
+2021-12-28 13:58:24,746 [main] INFO log1 - Click on login button
+2021-12-28 13:58:34,000 - log1 -INFO - Click on customer tab
+2021-12-28 13:58:34,000 [main] INFO log1 - Click on customer tab
+2021-12-28 13:58:34,059 - log1 -INFO - Click on sub customer tab
+2021-12-28 13:58:34,059 [main] INFO log1 - Click on sub customer tab
+2021-12-28 13:59:44,092 - log1 -INFO - Click on customer tab
+2021-12-28 13:59:44,092 [main] INFO log1 - Click on customer tab
+2021-12-28 13:59:44,169 - log1 -INFO - Click on sub customer tab
+2021-12-28 13:59:44,169 [main] INFO log1 - Click on sub customer tab
+2021-12-28 14:03:22,660 - log1 -INFO - Click on customer tab
+2021-12-28 14:03:22,660 [main] INFO log1 - Click on customer tab
+2021-12-28 14:03:22,754 - log1 -INFO - Click on sub customer tab
+2021-12-28 14:03:22,754 [main] INFO log1 - Click on sub customer tab
+2021-12-28 14:50:55,636 - log1 -INFO - Click on customer tab
+2021-12-28 14:50:55,636 [main] INFO log1 - Click on customer tab
+2021-12-28 14:50:55,720 - log1 -INFO - Click on sub customer tab
+2021-12-28 14:50:55,720 [main] INFO log1 - Click on sub customer tab
+2021-12-28 14:50:56,848 - log1 -INFO - Click on customer tab
+2021-12-28 14:50:56,848 [main] INFO log1 - Click on customer tab
+2021-12-28 14:50:56,932 - log1 -INFO - Click on sub customer tab
+2021-12-28 14:50:56,932 [main] INFO log1 - Click on sub customer tab
+2021-12-28 14:53:27,732 - log1 -INFO - Click on customer tab
+2021-12-28 14:53:27,732 [main] INFO log1 - Click on customer tab
+2021-12-28 14:53:27,832 - log1 -INFO - Click on sub customer tab
+2021-12-28 14:53:27,832 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:00:47,164 - log1 -INFO - Click on customer tab
+2021-12-28 15:00:47,164 [main] INFO log1 - Click on customer tab
+2021-12-28 15:00:47,265 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:00:47,265 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:00:47,349 - log1 -INFO - Enter the email id
+2021-12-28 15:00:47,349 [main] INFO log1 - Enter the email id
+2021-12-28 15:02:31,956 - log1 -INFO - Click on customer tab
+2021-12-28 15:02:31,956 [main] INFO log1 - Click on customer tab
+2021-12-28 15:02:32,060 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:02:32,060 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:02:32,128 - log1 -INFO - Enter the email id
+2021-12-28 15:02:32,128 [main] INFO log1 - Enter the email id
+2021-12-28 15:05:26,779 - log1 -INFO - Click on customer tab
+2021-12-28 15:05:26,779 [main] INFO log1 - Click on customer tab
+2021-12-28 15:05:26,882 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:05:26,882 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:05:26,957 - log1 -INFO - Enter the email id
+2021-12-28 15:05:26,957 [main] INFO log1 - Enter the email id
+2021-12-28 15:07:33,706 - log1 -INFO - Click on customer tab
+2021-12-28 15:07:33,706 [main] INFO log1 - Click on customer tab
+2021-12-28 15:07:35,831 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:07:35,831 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:07:35,888 - log1 -INFO - Enter the email id
+2021-12-28 15:07:35,888 [main] INFO log1 - Enter the email id
+2021-12-28 15:09:57,444 - log1 -INFO - Click on customer tab
+2021-12-28 15:09:57,444 [main] INFO log1 - Click on customer tab
+2021-12-28 15:09:59,557 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:09:59,557 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:10:03,619 - log1 -INFO - Enter the email id
+2021-12-28 15:10:03,619 [main] INFO log1 - Enter the email id
+2021-12-28 15:11:40,291 - log1 -INFO - Click on customer tab
+2021-12-28 15:11:40,291 [main] INFO log1 - Click on customer tab
+2021-12-28 15:11:42,418 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:11:42,418 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:11:47,253 - log1 -INFO - Enter the email id
+2021-12-28 15:11:47,253 [main] INFO log1 - Enter the email id
+2021-12-28 15:11:47,422 - log1 -INFO - Click on search button
+2021-12-28 15:11:47,422 [main] INFO log1 - Click on search button
+2021-12-28 15:12:34,424 - log1 -INFO - Enter username
+2021-12-28 15:12:34,424 [main] INFO log1 - Enter username
+2021-12-28 15:12:34,587 - log1 -INFO - Enter password
+2021-12-28 15:12:34,587 [main] INFO log1 - Enter password
+2021-12-28 15:12:39,452 - log1 -INFO - Click on login button
+2021-12-28 15:12:39,452 [main] INFO log1 - Click on login button
+2021-12-28 15:12:47,662 - log1 -INFO - Click on customer tab
+2021-12-28 15:12:47,662 [main] INFO log1 - Click on customer tab
+2021-12-28 15:12:49,779 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:12:49,779 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:12:54,572 - log1 -INFO - Enter the email id
+2021-12-28 15:12:54,572 [main] INFO log1 - Enter the email id
+2021-12-28 15:12:54,726 - log1 -INFO - Click on search button
+2021-12-28 15:12:54,726 [main] INFO log1 - Click on search button
+2021-12-28 15:47:59,982 - log1 -INFO - Enter username
+2021-12-28 15:47:59,982 [main] INFO log1 - Enter username
+2021-12-28 15:48:00,135 - log1 -INFO - Enter password
+2021-12-28 15:48:00,135 [main] INFO log1 - Enter password
+2021-12-28 15:48:04,486 - log1 -INFO - Click on login button
+2021-12-28 15:48:04,486 [main] INFO log1 - Click on login button
+2021-12-28 15:48:11,326 - log1 -INFO - Click on customer tab
+2021-12-28 15:48:11,326 [main] INFO log1 - Click on customer tab
+2021-12-28 15:48:13,423 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:48:13,423 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:48:18,754 - log1 -INFO - Enter the email id
+2021-12-28 15:48:18,754 [main] INFO log1 - Enter the email id
+2021-12-28 15:48:18,888 - log1 -INFO - Click on search button
+2021-12-28 15:48:18,888 [main] INFO log1 - Click on search button
+2021-12-28 15:52:24,763 - log1 -INFO - Enter username
+2021-12-28 15:52:24,763 [main] INFO log1 - Enter username
+2021-12-28 15:52:24,916 - log1 -INFO - Enter password
+2021-12-28 15:52:24,916 [main] INFO log1 - Enter password
+2021-12-28 15:52:28,489 - log1 -INFO - Click on login button
+2021-12-28 15:52:28,489 [main] INFO log1 - Click on login button
+2021-12-28 15:52:34,738 - log1 -INFO - Click on customer tab
+2021-12-28 15:52:34,738 [main] INFO log1 - Click on customer tab
+2021-12-28 15:52:36,833 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:52:36,833 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:52:41,799 - log1 -INFO - Enter the email id
+2021-12-28 15:52:41,799 [main] INFO log1 - Enter the email id
+2021-12-28 15:52:41,940 - log1 -INFO - Click on search button
+2021-12-28 15:52:41,940 [main] INFO log1 - Click on search button
+2021-12-28 15:55:50,525 - log1 -INFO - Enter username
+2021-12-28 15:55:50,525 [main] INFO log1 - Enter username
+2021-12-28 15:55:50,688 - log1 -INFO - Enter password
+2021-12-28 15:55:50,688 [main] INFO log1 - Enter password
+2021-12-28 15:55:54,647 - log1 -INFO - Click on login button
+2021-12-28 15:55:54,647 [main] INFO log1 - Click on login button
+2021-12-28 15:56:02,417 - log1 -INFO - Click on customer tab
+2021-12-28 15:56:02,417 [main] INFO log1 - Click on customer tab
+2021-12-28 15:56:03,424 - log1 -INFO - Click on customer tab
+2021-12-28 15:56:03,424 [main] INFO log1 - Click on customer tab
+2021-12-28 15:56:04,428 - log1 -INFO - Click on customer tab
+2021-12-28 15:56:04,428 [main] INFO log1 - Click on customer tab
+2021-12-28 15:56:06,434 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:56:06,434 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:56:08,438 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:56:08,438 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:56:10,444 - log1 -INFO - Click on sub customer tab
+2021-12-28 15:56:10,444 [main] INFO log1 - Click on sub customer tab
+2021-12-28 15:56:14,450 - log1 -INFO - Enter the email id
+2021-12-28 15:56:14,450 [main] INFO log1 - Enter the email id
+2021-12-28 15:56:18,453 - log1 -INFO - Enter the email id
+2021-12-28 15:56:18,453 [main] INFO log1 - Enter the email id
+2021-12-28 15:56:22,458 - log1 -INFO - Enter the email id
+2021-12-28 15:56:22,458 [main] INFO log1 - Enter the email id
+2021-12-28 17:01:12,368 - log1 -INFO - Enter username
+2021-12-28 17:01:12,368 [main] INFO log1 - Enter username
+2021-12-28 17:01:12,530 - log1 -INFO - Enter password
+2021-12-28 17:01:12,530 [main] INFO log1 - Enter password
+2021-12-28 17:01:17,512 - log1 -INFO - Click on login button
+2021-12-28 17:01:17,512 [main] INFO log1 - Click on login button
+2021-12-28 17:01:25,666 - log1 -INFO - Click on customer tab
+2021-12-28 17:01:25,666 [main] INFO log1 - Click on customer tab
+2021-12-28 17:01:27,760 - log1 -INFO - Click on sub customer tab
+2021-12-28 17:01:27,760 [main] INFO log1 - Click on sub customer tab
+2021-12-28 17:01:32,807 - log1 -INFO - Enter the email id
+2021-12-28 17:01:32,807 [main] INFO log1 - Enter the email id
+2021-12-28 17:01:32,946 - log1 -INFO - Click on search button
+2021-12-28 17:01:32,946 [main] INFO log1 - Click on search button
+2021-12-28 17:23:57,833 - log1 -INFO - Enter username
+2021-12-28 17:23:57,833 [main] INFO log1 - Enter username
+2021-12-28 17:23:57,989 - log1 -INFO - Enter password
+2021-12-28 17:23:57,989 [main] INFO log1 - Enter password
+2021-12-28 17:24:02,040 - log1 -INFO - Click on login button
+2021-12-28 17:24:02,040 [main] INFO log1 - Click on login button
+2021-12-28 17:24:11,440 - log1 -INFO - Click on customer tab
+2021-12-28 17:24:11,440 [main] INFO log1 - Click on customer tab
+2021-12-28 17:24:13,550 - log1 -INFO - Click on sub customer tab
+2021-12-28 17:24:13,550 [main] INFO log1 - Click on sub customer tab
+2021-12-28 17:24:18,925 - log1 -INFO - Enter the email id
+2021-12-28 17:24:18,925 [main] INFO log1 - Enter the email id
+2021-12-28 17:24:19,078 - log1 -INFO - Click on search button
+2021-12-28 17:24:19,078 [main] INFO log1 - Click on search button
+2021-12-28 17:43:08,216 - log1 -INFO - Enter username
+2021-12-28 17:43:08,216 [main] INFO log1 - Enter username
+2021-12-28 17:43:08,372 - log1 -INFO - Enter password
+2021-12-28 17:43:08,372 [main] INFO log1 - Enter password
+2021-12-28 17:43:12,161 - log1 -INFO - Click on login button
+2021-12-28 17:43:12,161 [main] INFO log1 - Click on login button
+2021-12-28 17:43:19,171 - log1 -INFO - Click on customer tab
+2021-12-28 17:43:19,171 [main] INFO log1 - Click on customer tab
+2021-12-28 17:43:21,269 - log1 -INFO - Click on sub customer tab
+2021-12-28 17:43:21,269 [main] INFO log1 - Click on sub customer tab
+2021-12-28 17:43:26,422 - log1 -INFO - Enter the email id
+2021-12-28 17:43:26,422 [main] INFO log1 - Enter the email id
+2021-12-28 17:43:26,553 - log1 -INFO - Click on search button
+2021-12-28 17:43:26,553 [main] INFO log1 - Click on search button
+2021-12-28 17:49:46,457 - log1 -INFO - Enter username
+2021-12-28 17:49:46,457 [main] INFO log1 - Enter username
+2021-12-28 17:49:46,613 - log1 -INFO - Enter password
+2021-12-28 17:49:46,613 [main] INFO log1 - Enter password
+2021-12-28 17:49:50,916 - log1 -INFO - Click on login button
+2021-12-28 17:49:50,916 [main] INFO log1 - Click on login button
+2021-12-28 17:49:58,730 - log1 -INFO - Click on customer tab
+2021-12-28 17:49:58,730 [main] INFO log1 - Click on customer tab
+2021-12-28 17:50:00,832 - log1 -INFO - Click on sub customer tab
+2021-12-28 17:50:00,832 [main] INFO log1 - Click on sub customer tab
+2021-12-28 17:50:06,306 - log1 -INFO - Enter the email id
+2021-12-28 17:50:06,306 [main] INFO log1 - Enter the email id
+2021-12-28 17:50:06,484 - log1 -INFO - Click on search button
+2021-12-28 17:50:06,484 [main] INFO log1 - Click on search button
+2021-12-28 18:55:59,397 - log1 -INFO - Click on logout button
+2021-12-28 18:55:59,397 [main] INFO log1 - Click on logout button
+2021-12-28 19:11:23,222 - log1 -INFO - Home page is launched
+2021-12-28 19:11:23,222 [main] INFO log1 - Home page is launched
+2021-12-28 19:11:31,181 - log1 -INFO - Click on Add New button
+2021-12-28 19:11:31,181 [main] INFO log1 - Click on Add New button
+2021-12-28 19:11:32,472 - log1 -INFO - Enter Email Id
+2021-12-28 19:11:32,472 [main] INFO log1 - Enter Email Id
+2021-12-28 19:11:32,647 - log1 -INFO - Enter password 
+2021-12-28 19:11:32,647 [main] INFO log1 - Enter password 
+2021-12-28 19:11:32,785 - log1 -INFO - Enter first name
+2021-12-28 19:11:32,785 [main] INFO log1 - Enter first name
+2021-12-28 19:11:32,899 - log1 -INFO - Enter last name
+2021-12-28 19:11:32,899 [main] INFO log1 - Enter last name
+2021-12-28 19:11:33,003 - log1 -INFO - Enter comapny name
+2021-12-28 19:11:33,003 [main] INFO log1 - Enter comapny name
+2021-12-28 19:11:33,106 - log1 -INFO - Click on save button
+2021-12-28 19:11:33,106 [main] INFO log1 - Click on save button
+2021-12-28 19:11:34,201 - log1 -INFO - Click on logout button
+2021-12-28 19:11:34,201 [main] INFO log1 - Click on logout button
+2021-12-28 19:36:45,791 - log1 -INFO - Click on Add New button
+2021-12-28 19:36:45,791 [main] INFO log1 - Click on Add New button
+2021-12-28 19:37:43,064 - log1 -INFO - Home page is launched
+2021-12-28 19:37:43,064 [main] INFO log1 - Home page is launched
+2021-12-28 19:37:50,512 - log1 -INFO - Click on Add New button
+2021-12-28 19:37:50,512 [main] INFO log1 - Click on Add New button
+2021-12-28 19:37:51,808 - log1 -INFO - Enter Email Id
+2021-12-28 19:37:51,808 [main] INFO log1 - Enter Email Id
+2021-12-28 19:37:52,014 - log1 -INFO - Enter password 
+2021-12-28 19:37:52,014 [main] INFO log1 - Enter password 
+2021-12-28 19:37:52,182 - log1 -INFO - Enter first name
+2021-12-28 19:37:52,182 [main] INFO log1 - Enter first name
+2021-12-28 19:37:52,335 - log1 -INFO - Enter last name
+2021-12-28 19:37:52,335 [main] INFO log1 - Enter last name
+2021-12-28 19:37:52,464 - log1 -INFO - Enter comapny name
+2021-12-28 19:37:52,464 [main] INFO log1 - Enter comapny name
+2021-12-28 19:37:52,602 - log1 -INFO - Click on save button
+2021-12-28 19:37:52,602 [main] INFO log1 - Click on save button
+2021-12-28 19:37:53,650 - log1 -INFO - Click on Add New button
+2021-12-28 19:37:53,650 [main] INFO log1 - Click on Add New button
+2021-12-28 19:37:54,554 - log1 -INFO - Enter Email Id
+2021-12-28 19:37:54,554 [main] INFO log1 - Enter Email Id
+2021-12-28 19:37:54,778 - log1 -INFO - Enter password 
+2021-12-28 19:37:54,778 [main] INFO log1 - Enter password 
+2021-12-28 19:37:54,914 - log1 -INFO - Enter first name
+2021-12-28 19:37:54,914 [main] INFO log1 - Enter first name
+2021-12-28 19:37:55,050 - log1 -INFO - Enter last name
+2021-12-28 19:37:55,050 [main] INFO log1 - Enter last name
+2021-12-28 19:37:55,185 - log1 -INFO - Enter comapny name
+2021-12-28 19:37:55,185 [main] INFO log1 - Enter comapny name
+2021-12-28 19:37:55,341 - log1 -INFO - Click on save button
+2021-12-28 19:37:55,341 [main] INFO log1 - Click on save button
+2021-12-28 19:37:56,514 - log1 -INFO - Click on Add New button
+2021-12-28 19:37:56,514 [main] INFO log1 - Click on Add New button
+2021-12-28 19:37:57,524 - log1 -INFO - Enter Email Id
+2021-12-28 19:37:57,524 [main] INFO log1 - Enter Email Id
+2021-12-28 19:37:57,788 - log1 -INFO - Enter password 
+2021-12-28 19:37:57,788 [main] INFO log1 - Enter password 
+2021-12-28 19:48:35,564 - log1 -INFO - Home page is launched
+2021-12-28 19:48:35,564 [main] INFO log1 - Home page is launched
+2021-12-28 19:48:42,168 - log1 -INFO - Click on Add New button
+2021-12-28 19:48:42,168 [main] INFO log1 - Click on Add New button
+2021-12-28 19:48:43,202 - log1 -INFO - Enter Email Id
+2021-12-28 19:48:43,202 [main] INFO log1 - Enter Email Id
+2021-12-28 19:48:43,404 - log1 -INFO - Enter password 
+2021-12-28 19:48:43,404 [main] INFO log1 - Enter password 
+2021-12-28 19:48:43,570 - log1 -INFO - Enter first name
+2021-12-28 19:48:43,570 [main] INFO log1 - Enter first name
+2021-12-28 19:48:43,721 - log1 -INFO - Enter last name
+2021-12-28 19:48:43,721 [main] INFO log1 - Enter last name
+2021-12-28 19:48:43,854 - log1 -INFO - Enter comapny name
+2021-12-28 19:48:43,854 [main] INFO log1 - Enter comapny name
+2021-12-28 19:48:43,996 - log1 -INFO - Click on save button
+2021-12-28 19:48:43,996 [main] INFO log1 - Click on save button
+2021-12-28 19:48:44,969 - log1 -INFO - Click on Add New button
+2021-12-28 19:48:44,969 [main] INFO log1 - Click on Add New button
+2021-12-28 19:50:40,903 - log1 -INFO - Home page is launched
+2021-12-28 19:50:40,903 [main] INFO log1 - Home page is launched
+2021-12-28 19:50:47,844 - log1 -INFO - Click on Add New button
+2021-12-28 19:50:47,844 [main] INFO log1 - Click on Add New button
+2021-12-28 19:50:48,834 - log1 -INFO - Enter Email Id
+2021-12-28 19:50:48,834 [main] INFO log1 - Enter Email Id
+2021-12-28 19:50:49,044 - log1 -INFO - Enter password 
+2021-12-28 19:50:49,044 [main] INFO log1 - Enter password 
+2021-12-28 19:50:49,215 - log1 -INFO - Enter first name
+2021-12-28 19:50:49,215 [main] INFO log1 - Enter first name
+2021-12-28 19:50:49,390 - log1 -INFO - Enter last name
+2021-12-28 19:50:49,390 [main] INFO log1 - Enter last name
+2021-12-28 19:50:49,528 - log1 -INFO - Enter comapny name
+2021-12-28 19:50:49,528 [main] INFO log1 - Enter comapny name
+2021-12-28 19:50:49,676 - log1 -INFO - Click on save button
+2021-12-28 19:50:49,676 [main] INFO log1 - Click on save button
+2021-12-28 19:50:50,915 - log1 -INFO - Click on Add New button
+2021-12-28 19:50:50,915 [main] INFO log1 - Click on Add New button
+2021-12-28 19:50:51,979 - log1 -INFO - Enter Email Id
+2021-12-28 19:50:51,979 [main] INFO log1 - Enter Email Id
+2021-12-28 19:50:52,400 - log1 -INFO - Enter password 
+2021-12-28 19:50:52,400 [main] INFO log1 - Enter password 
+2021-12-28 19:50:52,537 - log1 -INFO - Enter first name
+2021-12-28 19:50:52,537 [main] INFO log1 - Enter first name
+2021-12-28 19:50:52,675 - log1 -INFO - Enter last name
+2021-12-28 19:50:52,675 [main] INFO log1 - Enter last name
+2021-12-28 19:50:52,808 - log1 -INFO - Enter comapny name
+2021-12-28 19:50:52,808 [main] INFO log1 - Enter comapny name
+2021-12-28 19:50:52,963 - log1 -INFO - Click on save button
+2021-12-28 19:50:52,963 [main] INFO log1 - Click on save button
+2021-12-28 19:50:54,026 - log1 -INFO - Click on Add New button
+2021-12-28 19:50:54,026 [main] INFO log1 - Click on Add New button
+2021-12-28 19:50:54,691 - log1 -INFO - Enter Email Id
+2021-12-28 19:50:54,691 [main] INFO log1 - Enter Email Id
+2021-12-28 19:50:55,154 - log1 -INFO - Enter password 
+2021-12-28 19:50:55,154 [main] INFO log1 - Enter password 
+2021-12-28 19:50:55,306 - log1 -INFO - Enter first name
+2021-12-28 19:50:55,306 [main] INFO log1 - Enter first name
+2021-12-28 19:50:55,448 - log1 -INFO - Enter last name
+2021-12-28 19:50:55,448 [main] INFO log1 - Enter last name
+2021-12-28 19:50:55,597 - log1 -INFO - Enter comapny name
+2021-12-28 19:50:55,597 [main] INFO log1 - Enter comapny name
+2021-12-28 19:50:55,742 - log1 -INFO - Click on save button
+2021-12-28 19:50:55,742 [main] INFO log1 - Click on save button
+2021-12-28 19:50:57,147 - log1 -INFO - Click on Add New button
+2021-12-28 19:50:57,147 [main] INFO log1 - Click on Add New button
+2021-12-28 19:50:58,232 - log1 -INFO - Enter Email Id
+2021-12-28 19:50:58,232 [main] INFO log1 - Enter Email Id
+2021-12-28 19:50:58,459 - log1 -INFO - Enter password 
+2021-12-28 19:50:58,459 [main] INFO log1 - Enter password 
+2021-12-28 19:50:58,613 - log1 -INFO - Enter first name
+2021-12-28 19:50:58,613 [main] INFO log1 - Enter first name
+2021-12-28 19:50:58,750 - log1 -INFO - Enter last name
+2021-12-28 19:50:58,750 [main] INFO log1 - Enter last name
+2021-12-28 19:50:58,882 - log1 -INFO - Enter comapny name
+2021-12-28 19:50:58,882 [main] INFO log1 - Enter comapny name
+2021-12-28 19:50:59,034 - log1 -INFO - Click on save button
+2021-12-28 19:50:59,034 [main] INFO log1 - Click on save button
+2021-12-28 19:52:37,640 - log1 -INFO - Home page is launched
+2021-12-28 19:52:37,640 [main] INFO log1 - Home page is launched
+2021-12-28 19:52:44,077 - log1 -INFO - Click on Add New button
+2021-12-28 19:52:44,077 [main] INFO log1 - Click on Add New button
+2021-12-28 19:52:45,102 - log1 -INFO - Enter Email Id
+2021-12-28 19:52:45,102 [main] INFO log1 - Enter Email Id
+2021-12-28 19:52:45,317 - log1 -INFO - Enter password 
+2021-12-28 19:52:45,317 [main] INFO log1 - Enter password 
+2021-12-28 19:52:45,487 - log1 -INFO - Enter first name
+2021-12-28 19:52:45,487 [main] INFO log1 - Enter first name
+2021-12-28 19:52:45,657 - log1 -INFO - Enter last name
+2021-12-28 19:52:45,657 [main] INFO log1 - Enter last name
+2021-12-28 19:52:45,791 - log1 -INFO - Enter comapny name
+2021-12-28 19:52:45,791 [main] INFO log1 - Enter comapny name
+2021-12-28 19:52:45,936 - log1 -INFO - Click on save button
+2021-12-28 19:52:45,936 [main] INFO log1 - Click on save button
+2021-12-28 19:52:46,990 - log1 -INFO - Click on Add New button
+2021-12-28 19:52:46,990 [main] INFO log1 - Click on Add New button
+2021-12-28 19:54:22,671 - log1 -INFO - Home page is launched
+2021-12-28 19:54:22,671 [main] INFO log1 - Home page is launched
+2021-12-28 19:54:29,490 - log1 -INFO - Click on Add New button
+2021-12-28 19:54:29,490 [main] INFO log1 - Click on Add New button
+2021-12-28 19:54:30,660 - log1 -INFO - Enter Email Id
+2021-12-28 19:54:30,660 [main] INFO log1 - Enter Email Id
+2021-12-28 19:54:30,872 - log1 -INFO - Enter password 
+2021-12-28 19:54:30,872 [main] INFO log1 - Enter password 
+2021-12-28 19:54:31,045 - log1 -INFO - Enter first name
+2021-12-28 19:54:31,045 [main] INFO log1 - Enter first name
+2021-12-28 19:54:31,214 - log1 -INFO - Enter last name
+2021-12-28 19:54:31,214 [main] INFO log1 - Enter last name
+2021-12-28 19:54:31,353 - log1 -INFO - Enter comapny name
+2021-12-28 19:54:31,353 [main] INFO log1 - Enter comapny name
+2021-12-28 19:54:31,502 - log1 -INFO - Click on save button
+2021-12-28 19:54:31,502 [main] INFO log1 - Click on save button
+2021-12-28 19:54:32,560 - log1 -INFO - Click on Add New button
+2021-12-28 19:54:32,560 [main] INFO log1 - Click on Add New button
+2021-12-28 20:07:01,776 - log1 -INFO - Home page is launched
+2021-12-28 20:07:01,776 [main] INFO log1 - Home page is launched
+2021-12-28 20:07:09,789 - log1 -INFO - Click on Add New button
+2021-12-28 20:07:09,789 [main] INFO log1 - Click on Add New button
+2021-12-28 20:07:10,914 - log1 -INFO - Enter Email Id
+2021-12-28 20:07:10,914 [main] INFO log1 - Enter Email Id
+2021-12-28 20:07:11,121 - log1 -INFO - Enter password 
+2021-12-28 20:07:11,121 [main] INFO log1 - Enter password 
+2021-12-28 20:07:11,294 - log1 -INFO - Enter first name
+2021-12-28 20:07:11,294 [main] INFO log1 - Enter first name
+2021-12-28 20:07:11,440 - log1 -INFO - Enter last name
+2021-12-28 20:07:11,440 [main] INFO log1 - Enter last name
+2021-12-28 20:07:11,588 - log1 -INFO - Enter comapny name
+2021-12-28 20:07:11,588 [main] INFO log1 - Enter comapny name
+2021-12-28 20:07:11,735 - log1 -INFO - Click on save button
+2021-12-28 20:07:11,735 [main] INFO log1 - Click on save button
+2021-12-28 20:07:13,336 - log1 -INFO - Click on logout button
+2021-12-28 20:07:13,336 [main] INFO log1 - Click on logout button
+2021-12-28 20:07:16,394 - log1 -INFO - Enter username
+2021-12-28 20:07:16,394 [main] INFO log1 - Enter username
+2021-12-28 20:07:16,542 - log1 -INFO - Enter password
+2021-12-28 20:07:16,542 [main] INFO log1 - Enter password
+2021-12-28 20:07:20,409 - log1 -INFO - Click on login button
+2021-12-28 20:07:20,409 [main] INFO log1 - Click on login button
+2021-12-28 20:07:27,660 - log1 -INFO - Click on customer tab
+2021-12-28 20:07:27,660 [main] INFO log1 - Click on customer tab
+2021-12-28 20:07:29,752 - log1 -INFO - Click on sub customer tab
+2021-12-28 20:07:29,752 [main] INFO log1 - Click on sub customer tab
+2021-12-28 20:07:34,740 - log1 -INFO - Enter the email id
+2021-12-28 20:07:34,740 [main] INFO log1 - Enter the email id
+2021-12-28 20:07:34,874 - log1 -INFO - Click on search button
+2021-12-28 20:07:34,874 [main] INFO log1 - Click on search button
+2021-12-29 09:41:45,513 - log1 -INFO - Home page is launched
+2021-12-29 09:41:45,513 [main] INFO log1 - Home page is launched
+2021-12-29 09:41:52,562 - log1 -INFO - Click on Add New button
+2021-12-29 09:41:52,562 [main] INFO log1 - Click on Add New button
+2021-12-29 09:41:53,973 - log1 -INFO - Enter Email Id
+2021-12-29 09:41:53,973 [main] INFO log1 - Enter Email Id
+2021-12-29 09:41:54,188 - log1 -INFO - Enter password 
+2021-12-29 09:41:54,188 [main] INFO log1 - Enter password 
+2021-12-29 09:41:54,358 - log1 -INFO - Enter first name
+2021-12-29 09:41:54,358 [main] INFO log1 - Enter first name
+2021-12-29 09:41:54,520 - log1 -INFO - Enter last name
+2021-12-29 09:41:54,520 [main] INFO log1 - Enter last name
+2021-12-29 09:41:54,658 - log1 -INFO - Enter comapny name
+2021-12-29 09:41:54,658 [main] INFO log1 - Enter comapny name
+2021-12-29 09:41:54,805 - log1 -INFO - Click on save button
+2021-12-29 09:41:54,805 [main] INFO log1 - Click on save button
+2021-12-29 09:41:56,002 - log1 -INFO - Click on Add New button
+2021-12-29 09:41:56,002 [main] INFO log1 - Click on Add New button
+2021-12-29 09:41:56,706 - log1 -INFO - Enter Email Id
+2021-12-29 09:41:56,706 [main] INFO log1 - Enter Email Id
+2021-12-29 09:41:57,170 - log1 -INFO - Enter password 
+2021-12-29 09:41:57,170 [main] INFO log1 - Enter password 
+2021-12-29 09:41:57,310 - log1 -INFO - Enter first name
+2021-12-29 09:41:57,310 [main] INFO log1 - Enter first name
+2021-12-29 09:41:57,451 - log1 -INFO - Enter last name
+2021-12-29 09:41:57,451 [main] INFO log1 - Enter last name
+2021-12-29 09:41:57,596 - log1 -INFO - Enter comapny name
+2021-12-29 09:41:57,596 [main] INFO log1 - Enter comapny name
+2021-12-29 09:41:57,757 - log1 -INFO - Click on save button
+2021-12-29 09:41:57,757 [main] INFO log1 - Click on save button
+2021-12-29 09:41:58,832 - log1 -INFO - Click on Add New button
+2021-12-29 09:41:58,832 [main] INFO log1 - Click on Add New button
+2021-12-29 09:42:00,507 - log1 -INFO - Enter Email Id
+2021-12-29 09:42:00,507 [main] INFO log1 - Enter Email Id
+2021-12-29 09:42:00,719 - log1 -INFO - Enter password 
+2021-12-29 09:42:00,719 [main] INFO log1 - Enter password 
+2021-12-29 09:42:00,863 - log1 -INFO - Enter first name
+2021-12-29 09:42:00,863 [main] INFO log1 - Enter first name
+2021-12-29 09:42:01,004 - log1 -INFO - Enter last name
+2021-12-29 09:42:01,004 [main] INFO log1 - Enter last name
+2021-12-29 09:42:01,153 - log1 -INFO - Enter comapny name
+2021-12-29 09:42:01,153 [main] INFO log1 - Enter comapny name
+2021-12-29 09:42:01,300 - log1 -INFO - Click on save button
+2021-12-29 09:42:01,300 [main] INFO log1 - Click on save button
+2021-12-29 09:42:02,365 - log1 -INFO - Click on Add New button
+2021-12-29 09:42:02,365 [main] INFO log1 - Click on Add New button
+2021-12-29 09:42:03,480 - log1 -INFO - Enter Email Id
+2021-12-29 09:42:03,480 [main] INFO log1 - Enter Email Id
+2021-12-29 09:42:04,016 - log1 -INFO - Enter password 
+2021-12-29 09:42:04,016 [main] INFO log1 - Enter password 
+2021-12-29 09:42:04,169 - log1 -INFO - Enter first name
+2021-12-29 09:42:04,169 [main] INFO log1 - Enter first name
+2021-12-29 09:42:04,306 - log1 -INFO - Enter last name
+2021-12-29 09:42:04,306 [main] INFO log1 - Enter last name
+2021-12-29 09:42:04,439 - log1 -INFO - Enter comapny name
+2021-12-29 09:42:04,439 [main] INFO log1 - Enter comapny name
+2021-12-29 09:42:04,592 - log1 -INFO - Click on save button
+2021-12-29 09:42:04,592 [main] INFO log1 - Click on save button
+2021-12-29 09:43:02,550 - log1 -INFO - Home page is launched
+2021-12-29 09:43:02,550 [main] INFO log1 - Home page is launched
+2021-12-29 09:43:09,724 - log1 -INFO - Click on Add New button
+2021-12-29 09:43:09,724 [main] INFO log1 - Click on Add New button
+2021-12-29 09:43:10,722 - log1 -INFO - Enter Email Id
+2021-12-29 09:43:10,722 [main] INFO log1 - Enter Email Id
+2021-12-29 09:43:10,930 - log1 -INFO - Enter password 
+2021-12-29 09:43:10,930 [main] INFO log1 - Enter password 
+2021-12-29 09:43:11,099 - log1 -INFO - Enter first name
+2021-12-29 09:43:11,099 [main] INFO log1 - Enter first name
+2021-12-29 09:43:11,262 - log1 -INFO - Enter last name
+2021-12-29 09:43:11,262 [main] INFO log1 - Enter last name
+2021-12-29 09:43:11,394 - log1 -INFO - Enter comapny name
+2021-12-29 09:43:11,394 [main] INFO log1 - Enter comapny name
+2021-12-29 09:43:11,535 - log1 -INFO - Click on save button
+2021-12-29 09:43:11,535 [main] INFO log1 - Click on save button
+2021-12-29 09:43:12,537 - log1 -INFO - Click on Add New button
+2021-12-29 09:43:12,537 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:11,140 - log1 -INFO - Home page is launched
+2021-12-29 09:57:11,140 [main] INFO log1 - Home page is launched
+2021-12-29 09:57:20,017 - log1 -INFO - Click on Add New button
+2021-12-29 09:57:20,017 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:21,392 - log1 -INFO - Enter Email Id
+2021-12-29 09:57:21,392 [main] INFO log1 - Enter Email Id
+2021-12-29 09:57:21,606 - log1 -INFO - Enter password 
+2021-12-29 09:57:21,606 [main] INFO log1 - Enter password 
+2021-12-29 09:57:21,778 - log1 -INFO - Enter first name
+2021-12-29 09:57:21,778 [main] INFO log1 - Enter first name
+2021-12-29 09:57:21,940 - log1 -INFO - Enter last name
+2021-12-29 09:57:21,940 [main] INFO log1 - Enter last name
+2021-12-29 09:57:22,106 - log1 -INFO - Enter comapny name
+2021-12-29 09:57:22,106 [main] INFO log1 - Enter comapny name
+2021-12-29 09:57:22,249 - log1 -INFO - Click on save button
+2021-12-29 09:57:22,249 [main] INFO log1 - Click on save button
+2021-12-29 09:57:23,074 - log1 -INFO - Click on logout button
+2021-12-29 09:57:23,074 [main] INFO log1 - Click on logout button
+2021-12-29 09:57:26,877 - log1 -INFO - Home page is launched
+2021-12-29 09:57:26,877 [main] INFO log1 - Home page is launched
+2021-12-29 09:57:33,511 - log1 -INFO - Click on Add New button
+2021-12-29 09:57:33,511 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:34,706 - log1 -INFO - Enter Email Id
+2021-12-29 09:57:34,706 [main] INFO log1 - Enter Email Id
+2021-12-29 09:57:34,923 - log1 -INFO - Enter password 
+2021-12-29 09:57:34,923 [main] INFO log1 - Enter password 
+2021-12-29 09:57:35,092 - log1 -INFO - Enter first name
+2021-12-29 09:57:35,092 [main] INFO log1 - Enter first name
+2021-12-29 09:57:35,261 - log1 -INFO - Enter last name
+2021-12-29 09:57:35,261 [main] INFO log1 - Enter last name
+2021-12-29 09:57:35,394 - log1 -INFO - Enter comapny name
+2021-12-29 09:57:35,394 [main] INFO log1 - Enter comapny name
+2021-12-29 09:57:35,537 - log1 -INFO - Click on save button
+2021-12-29 09:57:35,537 [main] INFO log1 - Click on save button
+2021-12-29 09:57:36,601 - log1 -INFO - Click on Add New button
+2021-12-29 09:57:36,601 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:36,749 - log1 -INFO - Click on Add New button
+2021-12-29 09:57:36,749 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:36,838 - log1 -INFO - Click on Add New button
+2021-12-29 09:57:36,838 [main] INFO log1 - Click on Add New button
+2021-12-29 09:57:39,341 - log1 -INFO - Enter username
+2021-12-29 09:57:39,341 [main] INFO log1 - Enter username
+2021-12-29 09:57:39,497 - log1 -INFO - Enter password
+2021-12-29 09:57:39,497 [main] INFO log1 - Enter password
+2021-12-29 09:57:43,780 - log1 -INFO - Click on login button
+2021-12-29 09:57:43,780 [main] INFO log1 - Click on login button
+2021-12-29 09:57:51,005 - log1 -INFO - Click on customer tab
+2021-12-29 09:57:51,005 [main] INFO log1 - Click on customer tab
+2021-12-29 09:57:53,094 - log1 -INFO - Click on sub customer tab
+2021-12-29 09:57:53,094 [main] INFO log1 - Click on sub customer tab
+2021-12-29 09:57:57,807 - log1 -INFO - Enter the email id
+2021-12-29 09:57:57,807 [main] INFO log1 - Enter the email id
+2021-12-29 09:57:57,939 - log1 -INFO - Click on search button
+2021-12-29 09:57:57,939 [main] INFO log1 - Click on search button
+2021-12-29 10:12:49,729 - log1 -INFO - Home page is launched
+2021-12-29 10:12:49,729 [main] INFO log1 - Home page is launched
+2021-12-29 10:12:56,058 - log1 -INFO - Click on Add New button
+2021-12-29 10:12:56,058 [main] INFO log1 - Click on Add New button
+2021-12-29 10:12:57,098 - log1 -INFO - Enter Email Id
+2021-12-29 10:12:57,098 [main] INFO log1 - Enter Email Id
+2021-12-29 10:12:57,332 - log1 -INFO - Enter password 
+2021-12-29 10:12:57,332 [main] INFO log1 - Enter password 
+2021-12-29 10:12:57,521 - log1 -INFO - Enter first name
+2021-12-29 10:12:57,521 [main] INFO log1 - Enter first name
+2021-12-29 10:12:57,720 - log1 -INFO - Enter last name
+2021-12-29 10:12:57,720 [main] INFO log1 - Enter last name
+2021-12-29 10:12:57,874 - log1 -INFO - Enter comapny name
+2021-12-29 10:12:57,874 [main] INFO log1 - Enter comapny name
+2021-12-29 10:12:58,027 - log1 -INFO - Click on save button
+2021-12-29 10:12:58,027 [main] INFO log1 - Click on save button
+2021-12-29 10:12:59,275 - log1 -INFO - Click on Add New button
+2021-12-29 10:12:59,275 [main] INFO log1 - Click on Add New button
+2021-12-29 10:14:07,509 - log1 -INFO - Home page is launched
+2021-12-29 10:14:07,509 [main] INFO log1 - Home page is launched
+2021-12-29 10:14:13,145 - log1 -INFO - Click on Add New button
+2021-12-29 10:14:13,145 [main] INFO log1 - Click on Add New button
+2021-12-29 10:14:14,154 - log1 -INFO - Enter Email Id
+2021-12-29 10:14:14,154 [main] INFO log1 - Enter Email Id
+2021-12-29 10:14:14,402 - log1 -INFO - Enter password 
+2021-12-29 10:14:14,402 [main] INFO log1 - Enter password 
+2021-12-29 10:14:14,577 - log1 -INFO - Enter first name
+2021-12-29 10:14:14,577 [main] INFO log1 - Enter first name
+2021-12-29 10:14:14,753 - log1 -INFO - Enter last name
+2021-12-29 10:14:14,753 [main] INFO log1 - Enter last name
+2021-12-29 10:14:14,905 - log1 -INFO - Enter comapny name
+2021-12-29 10:14:14,905 [main] INFO log1 - Enter comapny name
+2021-12-29 10:14:15,061 - log1 -INFO - Click on save button
+2021-12-29 10:14:15,061 [main] INFO log1 - Click on save button
+2021-12-29 10:14:16,028 - log1 -INFO - Click on Add New button
+2021-12-29 10:14:16,028 [main] INFO log1 - Click on Add New button
+2021-12-29 10:16:20,862 - log1 -INFO - Home page is launched
+2021-12-29 10:16:20,862 [main] INFO log1 - Home page is launched
+2021-12-29 10:16:25,843 - log1 -INFO - Click on Add New button
+2021-12-29 10:16:25,843 [main] INFO log1 - Click on Add New button
+2021-12-29 10:16:27,248 - log1 -INFO - Enter Email Id
+2021-12-29 10:16:27,248 [main] INFO log1 - Enter Email Id
+2021-12-29 10:16:45,375 - log1 -INFO - Home page is launched
+2021-12-29 10:16:45,375 [main] INFO log1 - Home page is launched
+2021-12-29 10:16:50,874 - log1 -INFO - Click on Add New button
+2021-12-29 10:16:50,874 [main] INFO log1 - Click on Add New button
+2021-12-29 10:16:53,516 - log1 -INFO - Enter Email Id
+2021-12-29 10:16:53,516 [main] INFO log1 - Enter Email Id
+2021-12-29 10:16:53,749 - log1 -INFO - Enter password 
+2021-12-29 10:16:53,749 [main] INFO log1 - Enter password 
+2021-12-29 10:16:53,942 - log1 -INFO - Enter first name
+2021-12-29 10:16:53,942 [main] INFO log1 - Enter first name
+2021-12-29 10:16:54,130 - log1 -INFO - Enter last name
+2021-12-29 10:16:54,130 [main] INFO log1 - Enter last name
+2021-12-29 10:16:54,278 - log1 -INFO - Enter comapny name
+2021-12-29 10:16:54,278 [main] INFO log1 - Enter comapny name
+2021-12-29 10:16:54,438 - log1 -INFO - Click on save button
+2021-12-29 10:16:54,438 [main] INFO log1 - Click on save button
+2021-12-29 10:16:55,806 - log1 -INFO - Click on Add New button
+2021-12-29 10:16:55,806 [main] INFO log1 - Click on Add New button
+2021-12-29 10:16:57,861 - log1 -INFO - Enter Email Id
+2021-12-29 10:16:57,861 [main] INFO log1 - Enter Email Id
+2021-12-29 10:16:58,120 - log1 -INFO - Enter password 
+2021-12-29 10:16:58,120 [main] INFO log1 - Enter password 
+2021-12-29 10:16:58,304 - log1 -INFO - Enter first name
+2021-12-29 10:16:58,304 [main] INFO log1 - Enter first name
+2021-12-29 10:16:58,491 - log1 -INFO - Enter last name
+2021-12-29 10:16:58,491 [main] INFO log1 - Enter last name
+2021-12-29 10:16:58,688 - log1 -INFO - Enter comapny name
+2021-12-29 10:16:58,688 [main] INFO log1 - Enter comapny name
+2021-12-29 10:16:58,843 - log1 -INFO - Click on save button
+2021-12-29 10:16:58,843 [main] INFO log1 - Click on save button
+2021-12-29 10:16:59,935 - log1 -INFO - Click on Add New button
+2021-12-29 10:16:59,935 [main] INFO log1 - Click on Add New button
+2021-12-29 10:17:02,191 - log1 -INFO - Enter Email Id
+2021-12-29 10:17:02,191 [main] INFO log1 - Enter Email Id
+2021-12-29 10:17:02,426 - log1 -INFO - Enter password 
+2021-12-29 10:17:02,426 [main] INFO log1 - Enter password 
+2021-12-29 10:17:02,573 - log1 -INFO - Enter first name
+2021-12-29 10:17:02,573 [main] INFO log1 - Enter first name
+2021-12-29 10:17:02,719 - log1 -INFO - Enter last name
+2021-12-29 10:17:02,719 [main] INFO log1 - Enter last name
+2021-12-29 10:17:02,865 - log1 -INFO - Enter comapny name
+2021-12-29 10:17:02,865 [main] INFO log1 - Enter comapny name
+2021-12-29 10:17:03,009 - log1 -INFO - Click on save button
+2021-12-29 10:17:03,009 [main] INFO log1 - Click on save button
+2021-12-29 10:17:04,173 - log1 -INFO - Click on Add New button
+2021-12-29 10:17:04,173 [main] INFO log1 - Click on Add New button
+2021-12-29 10:17:06,083 - log1 -INFO - Enter Email Id
+2021-12-29 10:17:06,083 [main] INFO log1 - Enter Email Id
+2021-12-29 10:17:06,295 - log1 -INFO - Enter password 
+2021-12-29 10:17:06,295 [main] INFO log1 - Enter password 
+2021-12-29 10:17:06,455 - log1 -INFO - Enter first name
+2021-12-29 10:17:06,455 [main] INFO log1 - Enter first name
+2021-12-29 10:17:06,596 - log1 -INFO - Enter last name
+2021-12-29 10:17:06,596 [main] INFO log1 - Enter last name
+2021-12-29 10:17:06,732 - log1 -INFO - Enter comapny name
+2021-12-29 10:17:06,732 [main] INFO log1 - Enter comapny name
+2021-12-29 10:17:06,917 - log1 -INFO - Click on save button
+2021-12-29 10:17:06,917 [main] INFO log1 - Click on save button
+2021-12-29 10:30:06,643 - log1 -INFO - Home page is launched
+2021-12-29 10:30:06,643 [main] INFO log1 - Home page is launched
+2021-12-29 10:30:15,085 - log1 -INFO - Click on Add New button
+2021-12-29 10:30:15,085 [main] INFO log1 - Click on Add New button
+2021-12-29 10:30:16,114 - log1 -INFO - Enter Email Id
+2021-12-29 10:30:16,114 [main] INFO log1 - Enter Email Id
+2021-12-29 10:30:16,340 - log1 -INFO - Enter password 
+2021-12-29 10:30:16,340 [main] INFO log1 - Enter password 
+2021-12-29 10:30:16,533 - log1 -INFO - Enter first name
+2021-12-29 10:30:16,533 [main] INFO log1 - Enter first name
+2021-12-29 10:30:16,696 - log1 -INFO - Enter last name
+2021-12-29 10:30:16,696 [main] INFO log1 - Enter last name
+2021-12-29 10:30:16,845 - log1 -INFO - Enter comapny name
+2021-12-29 10:30:16,845 [main] INFO log1 - Enter comapny name
+2021-12-29 10:30:16,997 - log1 -INFO - Click on save button
+2021-12-29 10:30:16,997 [main] INFO log1 - Click on save button
+2021-12-29 10:30:17,893 - log1 -INFO - Click on logout button
+2021-12-29 10:30:17,893 [main] INFO log1 - Click on logout button
+2021-12-29 17:53:10,374 - log1 -INFO - Home page is launched
+2021-12-29 17:53:10,374 [main] INFO log1 - Home page is launched
+2021-12-29 17:53:18,716 - log1 -INFO - Click on Add New button
+2021-12-29 17:53:18,716 [main] INFO log1 - Click on Add New button
+2021-12-29 17:53:19,868 - log1 -INFO - Enter Email Id
+2021-12-29 17:53:19,868 [main] INFO log1 - Enter Email Id
+2021-12-29 17:53:20,143 - log1 -INFO - Enter password 
+2021-12-29 17:53:20,143 [main] INFO log1 - Enter password 
+2021-12-29 17:53:20,367 - log1 -INFO - Enter first name
+2021-12-29 17:53:20,367 [main] INFO log1 - Enter first name
+2021-12-29 17:53:20,579 - log1 -INFO - Enter last name
+2021-12-29 17:53:20,579 [main] INFO log1 - Enter last name
+2021-12-29 17:53:20,749 - log1 -INFO - Enter comapny name
+2021-12-29 17:53:20,749 [main] INFO log1 - Enter comapny name
+2021-12-29 17:53:20,929 - log1 -INFO - Click on save button
+2021-12-29 17:53:20,929 [main] INFO log1 - Click on save button
+2021-12-29 17:53:22,201 - log1 -INFO - Click on logout button
+2021-12-29 17:53:22,201 [main] INFO log1 - Click on logout button
+2021-12-29 17:54:34,159 - log1 -INFO - Home page is launched
+2021-12-29 17:54:34,159 [main] INFO log1 - Home page is launched
+2021-12-29 17:54:43,867 - log1 -INFO - Click on Add New button
+2021-12-29 17:54:43,867 [main] INFO log1 - Click on Add New button
+2021-12-29 17:54:45,349 - log1 -INFO - Enter Email Id
+2021-12-29 17:54:45,349 [main] INFO log1 - Enter Email Id
+2021-12-29 17:54:45,531 - log1 -INFO - Enter password 
+2021-12-29 17:54:45,531 [main] INFO log1 - Enter password 
+2021-12-29 17:54:45,722 - log1 -INFO - Enter first name
+2021-12-29 17:54:45,722 [main] INFO log1 - Enter first name
+2021-12-29 17:54:45,897 - log1 -INFO - Enter last name
+2021-12-29 17:54:45,897 [main] INFO log1 - Enter last name
+2021-12-29 17:54:46,053 - log1 -INFO - Enter comapny name
+2021-12-29 17:54:46,053 [main] INFO log1 - Enter comapny name
+2021-12-29 17:54:46,196 - log1 -INFO - Click on save button
+2021-12-29 17:54:46,196 [main] INFO log1 - Click on save button
+2021-12-29 17:54:47,016 - log1 -INFO - Click on logout button
+2021-12-29 17:54:47,016 [main] INFO log1 - Click on logout button
+2021-12-30 14:57:00,190 - log1 -INFO - Home page is launched
+2021-12-30 14:57:00,190 [main] INFO log1 - Home page is launched
+2021-12-30 14:57:07,312 - log1 -INFO - Click on Add New button
+2021-12-30 14:57:07,312 [main] INFO log1 - Click on Add New button
+2021-12-30 14:57:08,787 - log1 -INFO - Enter Email Id
+2021-12-30 14:57:08,787 [main] INFO log1 - Enter Email Id
+2021-12-30 14:57:09,087 - log1 -INFO - Enter password 
+2021-12-30 14:57:09,087 [main] INFO log1 - Enter password 
+2021-12-30 14:57:09,291 - log1 -INFO - Enter first name
+2021-12-30 14:57:09,291 [main] INFO log1 - Enter first name
+2021-12-30 14:57:09,475 - log1 -INFO - Enter last name
+2021-12-30 14:57:09,475 [main] INFO log1 - Enter last name
+2021-12-30 14:57:09,637 - log1 -INFO - Enter comapny name
+2021-12-30 14:57:09,637 [main] INFO log1 - Enter comapny name
+2021-12-30 14:57:09,811 - log1 -INFO - Click on save button
+2021-12-30 14:57:09,811 [main] INFO log1 - Click on save button
+2021-12-30 14:57:10,669 - log1 -INFO - Click on logout button
+2021-12-30 14:57:10,669 [main] INFO log1 - Click on logout button
+2021-12-30 14:57:14,601 - log1 -INFO - Home page is launched
+2021-12-30 14:57:14,601 [main] INFO log1 - Home page is launched
+2021-12-30 14:57:20,001 - log1 -INFO - Click on Add New button
+2021-12-30 14:57:20,001 [main] INFO log1 - Click on Add New button
+2021-12-30 14:57:22,969 - log1 -INFO - Enter Email Id
+2021-12-30 14:57:22,969 [main] INFO log1 - Enter Email Id
+2021-12-30 14:57:23,192 - log1 -INFO - Enter password 
+2021-12-30 14:57:23,192 [main] INFO log1 - Enter password 
+2021-12-30 14:57:23,375 - log1 -INFO - Enter first name
+2021-12-30 14:57:23,375 [main] INFO log1 - Enter first name
+2021-12-30 14:57:23,552 - log1 -INFO - Enter last name
+2021-12-30 14:57:23,552 [main] INFO log1 - Enter last name
+2021-12-30 14:57:23,714 - log1 -INFO - Enter comapny name
+2021-12-30 14:57:23,714 [main] INFO log1 - Enter comapny name
+2021-12-30 14:57:23,886 - log1 -INFO - Click on save button
+2021-12-30 14:57:23,886 [main] INFO log1 - Click on save button
+2021-12-30 14:57:25,070 - log1 -INFO - Click on Add New button
+2021-12-30 14:57:25,070 [main] INFO log1 - Click on Add New button
+2021-12-30 14:57:27,077 - log1 -INFO - Enter Email Id
+2021-12-30 14:57:27,077 [main] INFO log1 - Enter Email Id
+2021-12-30 14:57:27,773 - log1 -INFO - Enter password 
+2021-12-30 14:57:27,773 [main] INFO log1 - Enter password 
+2021-12-30 14:57:27,911 - log1 -INFO - Enter first name
+2021-12-30 14:57:27,911 [main] INFO log1 - Enter first name
+2021-12-30 14:57:28,055 - log1 -INFO - Enter last name
+2021-12-30 14:57:28,055 [main] INFO log1 - Enter last name
+2021-12-30 14:57:28,198 - log1 -INFO - Enter comapny name
+2021-12-30 14:57:28,198 [main] INFO log1 - Enter comapny name
+2021-12-30 14:57:28,352 - log1 -INFO - Click on save button
+2021-12-30 14:57:28,352 [main] INFO log1 - Click on save button
+2021-12-30 14:57:29,915 - log1 -INFO - Click on Add New button
+2021-12-30 14:57:29,915 [main] INFO log1 - Click on Add New button
+2021-12-30 14:57:31,993 - log1 -INFO - Enter Email Id
+2021-12-30 14:57:31,993 [main] INFO log1 - Enter Email Id
+2021-12-30 14:57:32,498 - log1 -INFO - Enter password 
+2021-12-30 14:57:32,498 [main] INFO log1 - Enter password 
+2021-12-30 14:57:32,654 - log1 -INFO - Enter first name
+2021-12-30 14:57:32,654 [main] INFO log1 - Enter first name
+2021-12-30 14:57:32,804 - log1 -INFO - Enter last name
+2021-12-30 14:57:32,804 [main] INFO log1 - Enter last name
+2021-12-30 14:57:32,956 - log1 -INFO - Enter comapny name
+2021-12-30 14:57:32,956 [main] INFO log1 - Enter comapny name
+2021-12-30 14:57:33,123 - log1 -INFO - Click on save button
+2021-12-30 14:57:33,123 [main] INFO log1 - Click on save button
+2021-12-30 14:57:34,240 - log1 -INFO - Click on Add New button
+2021-12-30 14:57:34,240 [main] INFO log1 - Click on Add New button
+2021-12-30 14:57:35,462 - log1 -INFO - Enter Email Id
+2021-12-30 14:57:35,462 [main] INFO log1 - Enter Email Id
+2021-12-30 14:57:35,903 - log1 -INFO - Enter password 
+2021-12-30 14:57:35,903 [main] INFO log1 - Enter password 
+2021-12-30 14:57:36,077 - log1 -INFO - Enter first name
+2021-12-30 14:57:36,077 [main] INFO log1 - Enter first name
+2021-12-30 14:57:36,247 - log1 -INFO - Enter last name
+2021-12-30 14:57:36,247 [main] INFO log1 - Enter last name
+2021-12-30 14:57:36,387 - log1 -INFO - Enter comapny name
+2021-12-30 14:57:36,387 [main] INFO log1 - Enter comapny name
+2021-12-30 14:57:36,564 - log1 -INFO - Click on save button
+2021-12-30 14:57:36,564 [main] INFO log1 - Click on save button
+2021-12-30 14:57:39,995 - log1 -INFO - Enter username
+2021-12-30 14:57:39,995 [main] INFO log1 - Enter username
+2021-12-30 14:57:40,153 - log1 -INFO - Enter password
+2021-12-30 14:57:40,153 [main] INFO log1 - Enter password
+2021-12-30 14:57:44,644 - log1 -INFO - Click on login button
+2021-12-30 14:57:44,644 [main] INFO log1 - Click on login button
+2021-12-30 14:57:52,729 - log1 -INFO - Click on customer tab
+2021-12-30 14:57:52,729 [main] INFO log1 - Click on customer tab
+2021-12-30 14:57:54,856 - log1 -INFO - Click on sub customer tab
+2021-12-30 14:57:54,856 [main] INFO log1 - Click on sub customer tab
+2021-12-30 14:58:00,122 - log1 -INFO - Enter the email id
+2021-12-30 14:58:00,122 [main] INFO log1 - Enter the email id
+2021-12-30 14:58:04,202 - log1 -INFO - Enter the email id
+2021-12-30 14:58:04,202 [main] INFO log1 - Enter the email id
+2021-12-30 14:58:08,291 - log1 -INFO - Enter the email id
+2021-12-30 14:58:08,291 [main] INFO log1 - Enter the email id
+2021-12-30 15:02:28,608 - log1 -INFO - Click on customer tab
+2021-12-30 15:02:28,608 [main] INFO log1 - Click on customer tab
+2021-12-30 15:02:30,738 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:02:30,738 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:02:35,417 - log1 -INFO - Enter the email id
+2021-12-30 15:02:35,417 [main] INFO log1 - Enter the email id
+2021-12-30 15:07:29,610 - log1 -INFO - Click on customer tab
+2021-12-30 15:07:29,610 [main] INFO log1 - Click on customer tab
+2021-12-30 15:07:31,722 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:07:31,722 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:07:37,083 - log1 -INFO - Click on search text
+2021-12-30 15:07:37,083 [main] INFO log1 - Click on search text
+2021-12-30 15:07:37,167 - log1 -INFO - Enter the email id
+2021-12-30 15:07:37,167 [main] INFO log1 - Enter the email id
+2021-12-30 15:07:37,336 - log1 -INFO - Click on search button
+2021-12-30 15:07:37,336 [main] INFO log1 - Click on search button
+2021-12-30 15:10:25,941 - log1 -INFO - Click on customer tab
+2021-12-30 15:10:25,941 [main] INFO log1 - Click on customer tab
+2021-12-30 15:10:28,064 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:10:28,064 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:10:33,264 - log1 -INFO - Click on search text
+2021-12-30 15:10:33,264 [main] INFO log1 - Click on search text
+2021-12-30 15:10:35,375 - log1 -INFO - Enter the email id
+2021-12-30 15:10:35,375 [main] INFO log1 - Enter the email id
+2021-12-30 15:10:37,528 - log1 -INFO - Click on search button
+2021-12-30 15:10:37,528 [main] INFO log1 - Click on search button
+2021-12-30 15:15:51,078 - log1 -INFO - Click on customer tab
+2021-12-30 15:15:51,078 [main] INFO log1 - Click on customer tab
+2021-12-30 15:15:53,215 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:15:53,215 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:15:58,408 - log1 -INFO - Click on search text
+2021-12-30 15:15:58,408 [main] INFO log1 - Click on search text
+2021-12-30 15:16:00,508 - log1 -INFO - Enter the email id
+2021-12-30 15:16:00,508 [main] INFO log1 - Enter the email id
+2021-12-30 15:16:27,502 - log1 -INFO - Click on customer tab
+2021-12-30 15:16:27,502 [main] INFO log1 - Click on customer tab
+2021-12-30 15:16:29,624 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:16:29,624 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:16:34,426 - log1 -INFO - Click on search text
+2021-12-30 15:16:34,426 [main] INFO log1 - Click on search text
+2021-12-30 15:16:36,532 - log1 -INFO - Enter the email id
+2021-12-30 15:16:36,532 [main] INFO log1 - Enter the email id
+2021-12-30 15:16:38,694 - log1 -INFO - Click on search button
+2021-12-30 15:16:38,694 [main] INFO log1 - Click on search button
+2021-12-30 15:17:45,702 - log1 -INFO - Click on customer tab
+2021-12-30 15:17:45,702 [main] INFO log1 - Click on customer tab
+2021-12-30 15:17:47,746 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:17:47,746 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:17:51,789 - log1 -INFO - Click on search text
+2021-12-30 15:17:51,789 [main] INFO log1 - Click on search text
+2021-12-30 15:18:34,143 - log1 -INFO - Click on customer tab
+2021-12-30 15:18:34,143 [main] INFO log1 - Click on customer tab
+2021-12-30 15:18:36,254 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:18:36,254 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:18:41,828 - log1 -INFO - Click on search text
+2021-12-30 15:18:41,828 [main] INFO log1 - Click on search text
+2021-12-30 15:18:43,911 - log1 -INFO - Enter the email id
+2021-12-30 15:18:43,911 [main] INFO log1 - Enter the email id
+2021-12-30 15:19:18,062 - log1 -INFO - Click on customer tab
+2021-12-30 15:19:18,062 [main] INFO log1 - Click on customer tab
+2021-12-30 15:19:20,163 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:19:20,163 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:19:25,610 - log1 -INFO - Click on search text
+2021-12-30 15:19:25,610 [main] INFO log1 - Click on search text
+2021-12-30 15:19:27,714 - log1 -INFO - Enter the email id
+2021-12-30 15:19:27,714 [main] INFO log1 - Enter the email id
+2021-12-30 15:19:29,891 - log1 -INFO - Click on search button
+2021-12-30 15:19:29,891 [main] INFO log1 - Click on search button
+2021-12-30 15:25:34,941 - log1 -INFO - Home page is launched
+2021-12-30 15:25:34,941 [main] INFO log1 - Home page is launched
+2021-12-30 15:25:42,871 - log1 -INFO - Click on Add New button
+2021-12-30 15:25:42,871 [main] INFO log1 - Click on Add New button
+2021-12-30 15:25:44,068 - log1 -INFO - Enter Email Id
+2021-12-30 15:25:44,068 [main] INFO log1 - Enter Email Id
+2021-12-30 15:25:44,287 - log1 -INFO - Enter password 
+2021-12-30 15:25:44,287 [main] INFO log1 - Enter password 
+2021-12-30 15:25:44,456 - log1 -INFO - Enter first name
+2021-12-30 15:25:44,456 [main] INFO log1 - Enter first name
+2021-12-30 15:25:44,632 - log1 -INFO - Enter last name
+2021-12-30 15:25:44,632 [main] INFO log1 - Enter last name
+2021-12-30 15:25:44,807 - log1 -INFO - Enter comapny name
+2021-12-30 15:25:44,807 [main] INFO log1 - Enter comapny name
+2021-12-30 15:25:44,982 - log1 -INFO - Click on save button
+2021-12-30 15:25:44,982 [main] INFO log1 - Click on save button
+2021-12-30 15:25:46,453 - log1 -INFO - Click on logout button
+2021-12-30 15:25:46,453 [main] INFO log1 - Click on logout button
+2021-12-30 15:25:53,204 - log1 -INFO - Enter username
+2021-12-30 15:25:53,204 [main] INFO log1 - Enter username
+2021-12-30 15:25:53,358 - log1 -INFO - Enter password
+2021-12-30 15:25:53,358 [main] INFO log1 - Enter password
+2021-12-30 15:25:57,517 - log1 -INFO - Click on login button
+2021-12-30 15:25:57,517 [main] INFO log1 - Click on login button
+2021-12-30 15:26:08,618 - log1 -INFO - Click on customer tab
+2021-12-30 15:26:08,618 [main] INFO log1 - Click on customer tab
+2021-12-30 15:26:10,731 - log1 -INFO - Click on sub customer tab
+2021-12-30 15:26:10,731 [main] INFO log1 - Click on sub customer tab
+2021-12-30 15:26:15,889 - log1 -INFO - Click on search text
+2021-12-30 15:26:15,889 [main] INFO log1 - Click on search text
+2021-12-30 15:26:18,040 - log1 -INFO - Enter the email id
+2021-12-30 15:26:18,040 [main] INFO log1 - Enter the email id
+2021-12-30 15:26:20,199 - log1 -INFO - Click on search button
+2021-12-30 15:26:20,199 [main] INFO log1 - Click on search button
+2021-12-30 16:20:29,590 - log1 -INFO - Home page is launched
+2021-12-30 16:20:29,590 [main] INFO log1 - Home page is launched
+2021-12-30 16:20:34,713 - log1 -INFO - Click on Add New button
+2021-12-30 16:20:34,713 [main] INFO log1 - Click on Add New button
+2021-12-30 16:20:37,181 - log1 -INFO - Enter Email Id
+2021-12-30 16:20:37,181 [main] INFO log1 - Enter Email Id
+2021-12-30 16:20:37,420 - log1 -INFO - Enter password 
+2021-12-30 16:20:37,420 [main] INFO log1 - Enter password 
+2021-12-30 16:20:37,607 - log1 -INFO - Enter first name
+2021-12-30 16:20:37,607 [main] INFO log1 - Enter first name
+2021-12-30 16:20:37,794 - log1 -INFO - Enter last name
+2021-12-30 16:20:37,794 [main] INFO log1 - Enter last name
+2021-12-30 16:20:37,942 - log1 -INFO - Enter comapny name
+2021-12-30 16:20:37,942 [main] INFO log1 - Enter comapny name
+2021-12-30 16:20:38,095 - log1 -INFO - Click on save button
+2021-12-30 16:20:38,095 [main] INFO log1 - Click on save button
+2021-12-30 16:20:39,319 - log1 -INFO - Click on Add New button
+2021-12-30 16:20:39,319 [main] INFO log1 - Click on Add New button
+2021-12-30 16:20:41,130 - log1 -INFO - Enter Email Id
+2021-12-30 16:20:41,130 [main] INFO log1 - Enter Email Id
+2021-12-30 16:20:41,590 - log1 -INFO - Enter password 
+2021-12-30 16:20:41,590 [main] INFO log1 - Enter password 
+2021-12-30 16:20:41,738 - log1 -INFO - Enter first name
+2021-12-30 16:20:41,738 [main] INFO log1 - Enter first name
+2021-12-30 16:20:41,910 - log1 -INFO - Enter last name
+2021-12-30 16:20:41,910 [main] INFO log1 - Enter last name
+2021-12-30 16:20:42,058 - log1 -INFO - Enter comapny name
+2021-12-30 16:20:42,058 [main] INFO log1 - Enter comapny name
+2021-12-30 16:20:42,236 - log1 -INFO - Click on save button
+2021-12-30 16:20:42,236 [main] INFO log1 - Click on save button
+2021-12-30 16:20:43,457 - log1 -INFO - Click on Add New button
+2021-12-30 16:20:43,457 [main] INFO log1 - Click on Add New button
+2021-12-30 16:20:45,162 - log1 -INFO - Enter Email Id
+2021-12-30 16:20:45,162 [main] INFO log1 - Enter Email Id
+2021-12-30 16:20:45,621 - log1 -INFO - Enter password 
+2021-12-30 16:20:45,621 [main] INFO log1 - Enter password 
+2021-12-30 16:20:45,793 - log1 -INFO - Enter first name
+2021-12-30 16:20:45,793 [main] INFO log1 - Enter first name
+2021-12-30 16:20:45,953 - log1 -INFO - Enter last name
+2021-12-30 16:20:45,953 [main] INFO log1 - Enter last name
+2021-12-30 16:20:46,111 - log1 -INFO - Enter comapny name
+2021-12-30 16:20:46,111 [main] INFO log1 - Enter comapny name
+2021-12-30 16:20:46,285 - log1 -INFO - Click on save button
+2021-12-30 16:20:46,285 [main] INFO log1 - Click on save button
+2021-12-30 16:20:47,482 - log1 -INFO - Click on Add New button
+2021-12-30 16:20:47,482 [main] INFO log1 - Click on Add New button
+2021-12-30 16:20:49,534 - log1 -INFO - Enter Email Id
+2021-12-30 16:20:49,534 [main] INFO log1 - Enter Email Id
+2021-12-30 16:20:49,774 - log1 -INFO - Enter password 
+2021-12-30 16:20:49,774 [main] INFO log1 - Enter password 
+2021-12-30 16:20:49,935 - log1 -INFO - Enter first name
+2021-12-30 16:20:49,935 [main] INFO log1 - Enter first name
+2021-12-30 16:20:50,084 - log1 -INFO - Enter last name
+2021-12-30 16:20:50,084 [main] INFO log1 - Enter last name
+2021-12-30 16:20:50,228 - log1 -INFO - Enter comapny name
+2021-12-30 16:20:50,228 [main] INFO log1 - Enter comapny name
+2021-12-30 16:20:50,399 - log1 -INFO - Click on save button
+2021-12-30 16:20:50,399 [main] INFO log1 - Click on save button
+2021-12-30 16:51:16,373 - log1 -INFO - Click on customer tab
+2021-12-30 16:51:16,373 [main] INFO log1 - Click on customer tab
+2021-12-30 16:51:18,496 - log1 -INFO - Click on sub customer tab
+2021-12-30 16:51:18,496 [main] INFO log1 - Click on sub customer tab
+2021-12-30 16:51:23,609 - log1 -INFO - Click on search text
+2021-12-30 16:51:23,609 [main] INFO log1 - Click on search text
+2021-12-30 16:51:25,715 - log1 -INFO - Enter the email id
+2021-12-30 16:51:25,715 [main] INFO log1 - Enter the email id
+2021-12-30 16:51:45,674 - log1 -INFO - Click on customer tab
+2021-12-30 16:51:45,674 [main] INFO log1 - Click on customer tab
+2021-12-30 16:51:47,775 - log1 -INFO - Click on sub customer tab
+2021-12-30 16:51:47,775 [main] INFO log1 - Click on sub customer tab
+2021-12-30 16:51:52,918 - log1 -INFO - Click on search text
+2021-12-30 16:51:52,918 [main] INFO log1 - Click on search text
+2021-12-30 16:51:55,059 - log1 -INFO - Enter the email id
+2021-12-30 16:51:55,059 [main] INFO log1 - Enter the email id
+2021-12-30 16:51:57,207 - log1 -INFO - Click on search button
+2021-12-30 16:51:57,207 [main] INFO log1 - Click on search button
+2021-12-30 16:56:04,909 - log1 -INFO - Click on customer tab
+2021-12-30 16:56:04,909 [main] INFO log1 - Click on customer tab
+2021-12-30 16:56:07,028 - log1 -INFO - Click on sub customer tab
+2021-12-30 16:56:07,028 [main] INFO log1 - Click on sub customer tab
+2021-12-30 16:56:12,092 - log1 -INFO - Click on search text
+2021-12-30 16:56:12,092 [main] INFO log1 - Click on search text
+2021-12-30 16:56:14,221 - log1 -INFO - Enter the email id
+2021-12-30 16:56:14,221 [main] INFO log1 - Enter the email id
+2021-12-30 16:56:39,213 - log1 -INFO - Click on customer tab
+2021-12-30 16:56:39,213 [main] INFO log1 - Click on customer tab
+2021-12-30 16:56:41,329 - log1 -INFO - Click on sub customer tab
+2021-12-30 16:56:41,329 [main] INFO log1 - Click on sub customer tab
+2021-12-30 16:56:46,346 - log1 -INFO - Click on search text
+2021-12-30 16:56:46,346 [main] INFO log1 - Click on search text
+2021-12-30 16:56:48,460 - log1 -INFO - Enter the email id
+2021-12-30 16:56:48,460 [main] INFO log1 - Enter the email id
+2021-12-30 16:56:50,617 - log1 -INFO - Click on search button
+2021-12-30 16:56:50,617 [main] INFO log1 - Click on search button
+2021-12-30 17:07:57,297 - log1 -INFO - Home page is launched
+2021-12-30 17:07:57,297 [main] INFO log1 - Home page is launched
+2021-12-30 17:08:03,360 - log1 -INFO - Click on Add New button
+2021-12-30 17:08:03,360 [main] INFO log1 - Click on Add New button
+2021-12-30 17:08:06,486 - log1 -INFO - Enter Email Id
+2021-12-30 17:08:06,486 [main] INFO log1 - Enter Email Id
+2021-12-30 17:08:06,824 - log1 -INFO - Enter password 
+2021-12-30 17:08:06,824 [main] INFO log1 - Enter password 
+2021-12-30 17:08:07,037 - log1 -INFO - Enter first name
+2021-12-30 17:08:07,037 [main] INFO log1 - Enter first name
+2021-12-30 17:08:07,264 - log1 -INFO - Enter last name
+2021-12-30 17:08:07,264 [main] INFO log1 - Enter last name
+2021-12-30 17:08:07,444 - log1 -INFO - Enter comapny name
+2021-12-30 17:08:07,444 [main] INFO log1 - Enter comapny name
+2021-12-30 17:08:07,641 - log1 -INFO - Click on save button
+2021-12-30 17:08:07,641 [main] INFO log1 - Click on save button
+2021-12-30 17:09:55,248 - log1 -INFO - Home page is launched
+2021-12-30 17:09:55,248 [main] INFO log1 - Home page is launched
+2021-12-30 17:10:00,923 - log1 -INFO - Click on Add New button
+2021-12-30 17:10:00,923 [main] INFO log1 - Click on Add New button
+2021-12-30 17:10:03,127 - log1 -INFO - Enter Email Id
+2021-12-30 17:10:03,127 [main] INFO log1 - Enter Email Id
+2021-12-30 17:10:03,353 - log1 -INFO - Enter password 
+2021-12-30 17:10:03,353 [main] INFO log1 - Enter password 
+2021-12-30 17:10:03,530 - log1 -INFO - Enter first name
+2021-12-30 17:10:03,530 [main] INFO log1 - Enter first name
+2021-12-30 17:10:03,711 - log1 -INFO - Enter last name
+2021-12-30 17:10:03,711 [main] INFO log1 - Enter last name
+2021-12-30 17:10:03,859 - log1 -INFO - Enter comapny name
+2021-12-30 17:10:03,859 [main] INFO log1 - Enter comapny name
+2021-12-30 17:10:04,002 - log1 -INFO - Click on save button
+2021-12-30 17:10:04,002 [main] INFO log1 - Click on save button
+2021-12-30 17:17:55,263 - log1 -INFO - Home page is launched
+2021-12-30 17:17:55,263 [main] INFO log1 - Home page is launched
+2021-12-30 17:18:06,381 - log1 -INFO - Click on Add New button
+2021-12-30 17:18:06,381 [main] INFO log1 - Click on Add New button
+2021-12-30 17:18:12,914 - log1 -INFO - Enter Email Id
+2021-12-30 17:18:12,914 [main] INFO log1 - Enter Email Id
+2021-12-30 17:18:13,133 - log1 -INFO - Enter password 
+2021-12-30 17:18:13,133 [main] INFO log1 - Enter password 
+2021-12-30 17:18:13,306 - log1 -INFO - Enter first name
+2021-12-30 17:18:13,306 [main] INFO log1 - Enter first name
+2021-12-30 17:18:13,479 - log1 -INFO - Enter last name
+2021-12-30 17:18:13,479 [main] INFO log1 - Enter last name
+2021-12-30 17:18:13,645 - log1 -INFO - Enter comapny name
+2021-12-30 17:18:13,645 [main] INFO log1 - Enter comapny name
+2021-12-30 17:18:13,809 - log1 -INFO - Click on save button
+2021-12-30 17:18:13,809 [main] INFO log1 - Click on save button
+2021-12-30 17:21:04,511 - log1 -INFO - Home page is launched
+2021-12-30 17:21:04,511 [main] INFO log1 - Home page is launched
+2021-12-30 17:21:09,943 - log1 -INFO - Click on Add New button
+2021-12-30 17:21:09,943 [main] INFO log1 - Click on Add New button
+2021-12-30 17:21:12,144 - log1 -INFO - Enter Email Id
+2021-12-30 17:21:12,144 [main] INFO log1 - Enter Email Id
+2021-12-30 17:21:12,360 - log1 -INFO - Enter password 
+2021-12-30 17:21:12,360 [main] INFO log1 - Enter password 
+2021-12-30 17:21:12,540 - log1 -INFO - Enter first name
+2021-12-30 17:21:12,540 [main] INFO log1 - Enter first name
+2021-12-30 17:21:12,708 - log1 -INFO - Enter last name
+2021-12-30 17:21:12,708 [main] INFO log1 - Enter last name
+2021-12-30 17:21:12,843 - log1 -INFO - Enter comapny name
+2021-12-30 17:21:12,843 [main] INFO log1 - Enter comapny name
+2021-12-30 17:21:12,994 - log1 -INFO - Click on save button
+2021-12-30 17:21:12,994 [main] INFO log1 - Click on save button
+2021-12-30 17:39:21,146 - log1 -INFO - Home page is launched
+2021-12-30 17:39:21,146 [main] INFO log1 - Home page is launched
+2021-12-30 17:39:26,564 - log1 -INFO - Click on Add New button
+2021-12-30 17:39:26,564 [main] INFO log1 - Click on Add New button
+2021-12-30 17:39:28,915 - log1 -INFO - Enter Email Id
+2021-12-30 17:39:28,915 [main] INFO log1 - Enter Email Id
+2021-12-30 17:39:29,121 - log1 -INFO - Enter password 
+2021-12-30 17:39:29,121 [main] INFO log1 - Enter password 
+2021-12-30 17:39:29,288 - log1 -INFO - Enter first name
+2021-12-30 17:39:29,288 [main] INFO log1 - Enter first name
+2021-12-30 17:39:29,456 - log1 -INFO - Enter last name
+2021-12-30 17:39:29,456 [main] INFO log1 - Enter last name
+2021-12-30 17:39:29,594 - log1 -INFO - Enter comapny name
+2021-12-30 17:39:29,594 [main] INFO log1 - Enter comapny name
+2021-12-30 17:39:29,738 - log1 -INFO - Click on save button
+2021-12-30 17:39:29,738 [main] INFO log1 - Click on save button
+2021-12-30 17:39:30,924 - log1 -INFO - Click on Add New button
+2021-12-30 17:39:30,924 [main] INFO log1 - Click on Add New button
+2021-12-30 17:39:32,597 - log1 -INFO - Enter Email Id
+2021-12-30 17:39:32,597 [main] INFO log1 - Enter Email Id
+2021-12-30 17:39:33,042 - log1 -INFO - Enter password 
+2021-12-30 17:39:33,042 [main] INFO log1 - Enter password 
+2021-12-30 17:39:33,190 - log1 -INFO - Enter first name
+2021-12-30 17:39:33,190 [main] INFO log1 - Enter first name
+2021-12-30 17:39:33,346 - log1 -INFO - Enter last name
+2021-12-30 17:39:33,346 [main] INFO log1 - Enter last name
+2021-12-30 17:39:33,479 - log1 -INFO - Enter comapny name
+2021-12-30 17:39:33,479 [main] INFO log1 - Enter comapny name
+2021-12-30 17:39:33,640 - log1 -INFO - Click on save button
+2021-12-30 17:39:33,640 [main] INFO log1 - Click on save button
+2021-12-30 17:41:15,338 - log1 -INFO - Home page is launched
+2021-12-30 17:41:15,338 [main] INFO log1 - Home page is launched
+2021-12-30 17:41:20,796 - log1 -INFO - Click on Add New button
+2021-12-30 17:41:20,796 [main] INFO log1 - Click on Add New button
+2021-12-30 17:41:23,236 - log1 -INFO - Enter Email Id
+2021-12-30 17:41:23,236 [main] INFO log1 - Enter Email Id
+2021-12-30 17:41:23,461 - log1 -INFO - Enter password 
+2021-12-30 17:41:23,461 [main] INFO log1 - Enter password 
+2021-12-30 17:41:23,653 - log1 -INFO - Enter first name
+2021-12-30 17:41:23,653 [main] INFO log1 - Enter first name
+2021-12-30 17:41:23,826 - log1 -INFO - Enter last name
+2021-12-30 17:41:23,826 [main] INFO log1 - Enter last name
+2021-12-30 17:41:23,971 - log1 -INFO - Enter comapny name
+2021-12-30 17:41:23,971 [main] INFO log1 - Enter comapny name
+2021-12-30 17:41:24,123 - log1 -INFO - Click on save button
+2021-12-30 17:41:24,123 [main] INFO log1 - Click on save button
+2021-12-30 17:41:25,062 - log1 -INFO - Click on Add New button
+2021-12-30 17:41:25,062 [main] INFO log1 - Click on Add New button
+2021-12-30 17:41:26,828 - log1 -INFO - Enter Email Id
+2021-12-30 17:41:26,828 [main] INFO log1 - Enter Email Id
+2021-12-30 17:41:27,721 - log1 -INFO - Enter password 
+2021-12-30 17:41:27,721 [main] INFO log1 - Enter password 
+2021-12-30 17:41:27,860 - log1 -INFO - Enter first name
+2021-12-30 17:41:27,860 [main] INFO log1 - Enter first name
+2021-12-30 17:41:28,012 - log1 -INFO - Enter last name
+2021-12-30 17:41:28,012 [main] INFO log1 - Enter last name
+2021-12-30 17:41:28,149 - log1 -INFO - Enter comapny name
+2021-12-30 17:41:28,149 [main] INFO log1 - Enter comapny name
+2021-12-30 17:41:28,310 - log1 -INFO - Click on save button
+2021-12-30 17:41:28,310 [main] INFO log1 - Click on save button
+2021-12-30 17:41:29,205 - log1 -INFO - Click on Add New button
+2021-12-30 17:41:29,205 [main] INFO log1 - Click on Add New button
+2021-12-30 17:41:30,778 - log1 -INFO - Enter Email Id
+2021-12-30 17:41:30,778 [main] INFO log1 - Enter Email Id
+2021-12-30 17:41:31,236 - log1 -INFO - Enter password 
+2021-12-30 17:41:31,236 [main] INFO log1 - Enter password 
+2021-12-30 17:41:31,386 - log1 -INFO - Enter first name
+2021-12-30 17:41:31,386 [main] INFO log1 - Enter first name
+2021-12-30 17:41:31,533 - log1 -INFO - Enter last name
+2021-12-30 17:41:31,533 [main] INFO log1 - Enter last name
+2021-12-30 17:41:31,675 - log1 -INFO - Enter comapny name
+2021-12-30 17:41:31,675 [main] INFO log1 - Enter comapny name
+2021-12-30 17:41:31,822 - log1 -INFO - Click on save button
+2021-12-30 17:41:31,822 [main] INFO log1 - Click on save button
+2021-12-30 17:46:09,133 - log1 -INFO - Home page is launched
+2021-12-30 17:46:09,133 [main] INFO log1 - Home page is launched
+2021-12-30 17:46:14,528 - log1 -INFO - Click on Add New button
+2021-12-30 17:46:14,528 [main] INFO log1 - Click on Add New button
+2021-12-30 17:46:17,067 - log1 -INFO - Enter Email Id
+2021-12-30 17:46:17,067 [main] INFO log1 - Enter Email Id
+2021-12-30 17:46:17,290 - log1 -INFO - Enter password 
+2021-12-30 17:46:17,290 [main] INFO log1 - Enter password 
+2021-12-30 17:46:17,468 - log1 -INFO - Enter first name
+2021-12-30 17:46:17,468 [main] INFO log1 - Enter first name
+2021-12-30 17:46:17,637 - log1 -INFO - Enter last name
+2021-12-30 17:46:17,637 [main] INFO log1 - Enter last name
+2021-12-30 17:46:17,783 - log1 -INFO - Enter comapny name
+2021-12-30 17:46:17,783 [main] INFO log1 - Enter comapny name
+2021-12-30 17:46:17,938 - log1 -INFO - Click on save button
+2021-12-30 17:46:17,938 [main] INFO log1 - Click on save button
+2021-12-30 17:46:18,910 - log1 -INFO - Click on Add New button
+2021-12-30 17:46:18,910 [main] INFO log1 - Click on Add New button
+2021-12-30 17:46:20,528 - log1 -INFO - Enter Email Id
+2021-12-30 17:46:20,528 [main] INFO log1 - Enter Email Id
+2021-12-30 17:46:20,968 - log1 -INFO - Enter password 
+2021-12-30 17:46:20,968 [main] INFO log1 - Enter password 
+2021-12-30 17:46:21,111 - log1 -INFO - Enter first name
+2021-12-30 17:46:21,111 [main] INFO log1 - Enter first name
+2021-12-30 17:46:21,262 - log1 -INFO - Enter last name
+2021-12-30 17:46:21,262 [main] INFO log1 - Enter last name
+2021-12-30 17:46:21,396 - log1 -INFO - Enter comapny name
+2021-12-30 17:46:21,396 [main] INFO log1 - Enter comapny name
+2021-12-30 17:46:21,560 - log1 -INFO - Click on save button
+2021-12-30 17:46:21,560 [main] INFO log1 - Click on save button
+2021-12-30 17:46:22,468 - log1 -INFO - Click on Add New button
+2021-12-30 17:46:22,468 [main] INFO log1 - Click on Add New button
+2021-12-30 17:46:24,154 - log1 -INFO - Enter Email Id
+2021-12-30 17:46:24,154 [main] INFO log1 - Enter Email Id
+2021-12-30 17:46:24,596 - log1 -INFO - Enter password 
+2021-12-30 17:46:24,596 [main] INFO log1 - Enter password 
+2021-12-30 17:46:24,739 - log1 -INFO - Enter first name
+2021-12-30 17:46:24,739 [main] INFO log1 - Enter first name
+2021-12-30 17:46:24,888 - log1 -INFO - Enter last name
+2021-12-30 17:46:24,888 [main] INFO log1 - Enter last name
+2021-12-30 17:46:25,035 - log1 -INFO - Enter comapny name
+2021-12-30 17:46:25,035 [main] INFO log1 - Enter comapny name
+2021-12-30 17:46:25,185 - log1 -INFO - Click on save button
+2021-12-30 17:46:25,185 [main] INFO log1 - Click on save button
+2021-12-30 17:46:26,057 - log1 -INFO - Click on Add New button
+2021-12-30 17:46:26,057 [main] INFO log1 - Click on Add New button
+2021-12-30 17:46:27,740 - log1 -INFO - Enter Email Id
+2021-12-30 17:46:27,740 [main] INFO log1 - Enter Email Id
+2021-12-30 17:46:28,167 - log1 -INFO - Enter password 
+2021-12-30 17:46:28,167 [main] INFO log1 - Enter password 
+2021-12-30 17:46:28,344 - log1 -INFO - Enter first name
+2021-12-30 17:46:28,344 [main] INFO log1 - Enter first name
+2021-12-30 17:46:28,499 - log1 -INFO - Enter last name
+2021-12-30 17:46:28,499 [main] INFO log1 - Enter last name
+2021-12-30 17:46:28,627 - log1 -INFO - Enter comapny name
+2021-12-30 17:46:28,627 [main] INFO log1 - Enter comapny name
+2021-12-30 17:46:28,784 - log1 -INFO - Click on save button
+2021-12-30 17:46:28,784 [main] INFO log1 - Click on save button
+2021-12-30 17:47:18,333 - log1 -INFO - Home page is launched
+2021-12-30 17:47:18,333 [main] INFO log1 - Home page is launched
+2021-12-30 17:47:23,739 - log1 -INFO - Click on Add New button
+2021-12-30 17:47:23,739 [main] INFO log1 - Click on Add New button
+2021-12-30 17:47:26,338 - log1 -INFO - Enter Email Id
+2021-12-30 17:47:26,338 [main] INFO log1 - Enter Email Id
+2021-12-30 17:47:26,569 - log1 -INFO - Enter password 
+2021-12-30 17:47:26,569 [main] INFO log1 - Enter password 
+2021-12-30 17:47:26,758 - log1 -INFO - Enter first name
+2021-12-30 17:47:26,758 [main] INFO log1 - Enter first name
+2021-12-30 17:47:26,931 - log1 -INFO - Enter last name
+2021-12-30 17:47:26,931 [main] INFO log1 - Enter last name
+2021-12-30 17:47:27,075 - log1 -INFO - Enter comapny name
+2021-12-30 17:47:27,075 [main] INFO log1 - Enter comapny name
+2021-12-30 17:47:27,231 - log1 -INFO - Click on save button
+2021-12-30 17:47:27,231 [main] INFO log1 - Click on save button
+2021-12-30 17:47:28,582 - log1 -INFO - Click on Add New button
+2021-12-30 17:47:28,582 [main] INFO log1 - Click on Add New button
+2021-12-30 17:47:30,357 - log1 -INFO - Enter Email Id
+2021-12-30 17:47:30,357 [main] INFO log1 - Enter Email Id
+2021-12-30 17:47:30,796 - log1 -INFO - Enter password 
+2021-12-30 17:47:30,796 [main] INFO log1 - Enter password 
+2021-12-30 17:47:30,935 - log1 -INFO - Enter first name
+2021-12-30 17:47:30,935 [main] INFO log1 - Enter first name
+2021-12-30 17:47:31,092 - log1 -INFO - Enter last name
+2021-12-30 17:47:31,092 [main] INFO log1 - Enter last name
+2021-12-30 17:47:31,220 - log1 -INFO - Enter comapny name
+2021-12-30 17:47:31,220 [main] INFO log1 - Enter comapny name
+2021-12-30 17:47:31,376 - log1 -INFO - Click on save button
+2021-12-30 17:47:31,376 [main] INFO log1 - Click on save button
+2021-12-30 17:47:32,273 - log1 -INFO - Click on Add New button
+2021-12-30 17:47:32,273 [main] INFO log1 - Click on Add New button
+2021-12-30 17:47:34,318 - log1 -INFO - Enter Email Id
+2021-12-30 17:47:34,318 [main] INFO log1 - Enter Email Id
+2021-12-30 17:47:34,584 - log1 -INFO - Enter password 
+2021-12-30 17:47:34,584 [main] INFO log1 - Enter password 
+2021-12-30 17:47:34,753 - log1 -INFO - Enter first name
+2021-12-30 17:47:34,753 [main] INFO log1 - Enter first name
+2021-12-30 17:47:34,907 - log1 -INFO - Enter last name
+2021-12-30 17:47:34,907 [main] INFO log1 - Enter last name
+2021-12-30 17:47:35,043 - log1 -INFO - Enter comapny name
+2021-12-30 17:47:35,043 [main] INFO log1 - Enter comapny name
+2021-12-30 17:47:35,188 - log1 -INFO - Click on save button
+2021-12-30 17:47:35,188 [main] INFO log1 - Click on save button
+2021-12-30 17:47:36,081 - log1 -INFO - Click on Add New button
+2021-12-30 17:47:36,081 [main] INFO log1 - Click on Add New button
+2021-12-30 17:47:37,651 - log1 -INFO - Enter Email Id
+2021-12-30 17:47:37,651 [main] INFO log1 - Enter Email Id
+2021-12-30 17:47:38,080 - log1 -INFO - Enter password 
+2021-12-30 17:47:38,080 [main] INFO log1 - Enter password 
+2021-12-30 17:47:38,238 - log1 -INFO - Enter first name
+2021-12-30 17:47:38,238 [main] INFO log1 - Enter first name
+2021-12-30 17:47:38,380 - log1 -INFO - Enter last name
+2021-12-30 17:47:38,380 [main] INFO log1 - Enter last name
+2021-12-30 17:47:38,509 - log1 -INFO - Enter comapny name
+2021-12-30 17:47:38,509 [main] INFO log1 - Enter comapny name
+2021-12-30 17:47:38,661 - log1 -INFO - Click on save button
+2021-12-30 17:47:38,661 [main] INFO log1 - Click on save button
+2021-12-31 07:09:16,717 - log1 -INFO - Home page is launched
+2021-12-31 07:09:16,717 [main] INFO log1 - Home page is launched
+2021-12-31 07:09:25,107 - log1 -INFO - Click on Add New button
+2021-12-31 07:09:25,107 [main] INFO log1 - Click on Add New button
+2021-12-31 07:09:28,423 - log1 -INFO - Enter Email Id
+2021-12-31 07:09:28,423 [main] INFO log1 - Enter Email Id
+2021-12-31 07:09:28,658 - log1 -INFO - Enter password 
+2021-12-31 07:09:28,658 [main] INFO log1 - Enter password 
+2021-12-31 07:09:28,838 - log1 -INFO - Enter first name
+2021-12-31 07:09:28,838 [main] INFO log1 - Enter first name
+2021-12-31 07:09:29,005 - log1 -INFO - Enter last name
+2021-12-31 07:09:29,005 [main] INFO log1 - Enter last name
+2021-12-31 07:09:29,154 - log1 -INFO - Enter comapny name
+2021-12-31 07:09:29,154 [main] INFO log1 - Enter comapny name
+2021-12-31 07:09:29,303 - log1 -INFO - Click on save button
+2021-12-31 07:09:29,303 [main] INFO log1 - Click on save button
+2021-12-31 07:09:30,611 - log1 -INFO - Click on logout button
+2021-12-31 07:09:30,611 [main] INFO log1 - Click on logout button
+2021-12-31 17:57:02,073 - log1 -INFO - Home page is launched
+2021-12-31 17:57:02,073 [main] INFO log1 - Home page is launched
+2021-12-31 17:57:10,133 - log1 -INFO - Click on Add New button
+2021-12-31 17:57:10,133 [main] INFO log1 - Click on Add New button
+2021-12-31 17:57:11,184 - log1 -INFO - Enter Email Id
+2021-12-31 17:57:11,184 [main] INFO log1 - Enter Email Id
+2021-12-31 17:57:11,494 - log1 -INFO - Enter password 
+2021-12-31 17:57:11,494 [main] INFO log1 - Enter password 
+2021-12-31 17:57:11,662 - log1 -INFO - Enter first name
+2021-12-31 17:57:11,662 [main] INFO log1 - Enter first name
+2021-12-31 17:57:11,815 - log1 -INFO - Enter last name
+2021-12-31 17:57:11,815 [main] INFO log1 - Enter last name
+2021-12-31 17:57:11,992 - log1 -INFO - Enter comapny name
+2021-12-31 17:57:11,992 [main] INFO log1 - Enter comapny name
+2021-12-31 17:57:12,143 - log1 -INFO - Click on save button
+2021-12-31 17:57:12,143 [main] INFO log1 - Click on save button
+2021-12-31 17:57:13,579 - log1 -INFO - Click on logout button
+2021-12-31 17:57:13,579 [main] INFO log1 - Click on logout button
+2021-12-31 17:58:39,612 - log1 -INFO - Home page is launched
+2021-12-31 17:58:39,612 [main] INFO log1 - Home page is launched
+2021-12-31 17:58:47,780 - log1 -INFO - Click on Add New button
+2021-12-31 17:58:47,780 [main] INFO log1 - Click on Add New button
+2021-12-31 17:58:48,875 - log1 -INFO - Enter Email Id
+2021-12-31 17:58:48,875 [main] INFO log1 - Enter Email Id
+2021-12-31 17:58:49,128 - log1 -INFO - Enter password 
+2021-12-31 17:58:49,128 [main] INFO log1 - Enter password 
+2021-12-31 17:58:49,357 - log1 -INFO - Enter first name
+2021-12-31 17:58:49,357 [main] INFO log1 - Enter first name
+2021-12-31 17:58:49,540 - log1 -INFO - Enter last name
+2021-12-31 17:58:49,540 [main] INFO log1 - Enter last name
+2021-12-31 17:58:49,706 - log1 -INFO - Enter comapny name
+2021-12-31 17:58:49,706 [main] INFO log1 - Enter comapny name
+2021-12-31 17:58:49,877 - log1 -INFO - Click on save button
+2021-12-31 17:58:49,877 [main] INFO log1 - Click on save button
+2021-12-31 17:58:50,936 - log1 -INFO - Click on logout button
+2021-12-31 17:58:50,936 [main] INFO log1 - Click on logout button
+2022-01-07 12:25:25,593 - log1 -INFO - Home page is launched
+2022-01-07 12:25:25,593 [main] INFO log1 - Home page is launched
+2022-01-07 12:25:33,433 - log1 -INFO - Click on Add New button
+2022-01-07 12:25:33,433 [main] INFO log1 - Click on Add New button
+2022-01-07 12:25:34,648 - log1 -INFO - Enter Email Id
+2022-01-07 12:25:34,648 [main] INFO log1 - Enter Email Id
+2022-01-07 12:25:34,944 - log1 -INFO - Enter password 
+2022-01-07 12:25:34,944 [main] INFO log1 - Enter password 
+2022-01-07 12:25:35,164 - log1 -INFO - Enter first name
+2022-01-07 12:25:35,164 [main] INFO log1 - Enter first name
+2022-01-07 12:25:35,390 - log1 -INFO - Enter last name
+2022-01-07 12:25:35,390 [main] INFO log1 - Enter last name
+2022-01-07 12:25:35,590 - log1 -INFO - Enter comapny name
+2022-01-07 12:25:35,590 [main] INFO log1 - Enter comapny name
+2022-01-07 12:25:35,783 - log1 -INFO - Click on save button
+2022-01-07 12:25:35,783 [main] INFO log1 - Click on save button
+2022-01-07 12:25:37,355 - log1 -INFO - Click on logout button
+2022-01-07 12:25:37,355 [main] INFO log1 - Click on logout button
+2022-01-07 12:25:44,405 - log1 -INFO - Enter username
+2022-01-07 12:25:44,405 [main] INFO log1 - Enter username
+2022-01-07 12:25:44,576 - log1 -INFO - Enter password
+2022-01-07 12:25:44,576 [main] INFO log1 - Enter password
+2022-01-07 12:25:49,016 - log1 -INFO - Click on login button
+2022-01-07 12:25:49,016 [main] INFO log1 - Click on login button
+2022-01-07 12:26:00,004 - log1 -INFO - Click on customer tab
+2022-01-07 12:26:00,004 [main] INFO log1 - Click on customer tab
+2022-01-07 12:26:02,105 - log1 -INFO - Click on sub customer tab
+2022-01-07 12:26:02,105 [main] INFO log1 - Click on sub customer tab
+2022-01-07 12:26:07,243 - log1 -INFO - Click on search text
+2022-01-07 12:26:07,243 [main] INFO log1 - Click on search text
+2022-01-07 12:26:09,371 - log1 -INFO - Enter the email id
+2022-01-07 12:26:09,371 [main] INFO log1 - Enter the email id
+2022-01-07 12:26:15,457 - log1 -INFO - Click on search text
+2022-01-07 12:26:15,457 [main] INFO log1 - Click on search text
+2022-01-07 12:26:17,533 - log1 -INFO - Enter the email id
+2022-01-07 12:26:17,533 [main] INFO log1 - Enter the email id
+2022-01-07 12:26:19,671 - log1 -INFO - Click on search button
+2022-01-07 12:26:19,671 [main] INFO log1 - Click on search button
+2022-01-07 12:27:18,686 - log1 -INFO - Home page is launched
+2022-01-07 12:27:18,686 [main] INFO log1 - Home page is launched
+2022-01-07 12:27:28,111 - log1 -INFO - Click on Add New button
+2022-01-07 12:27:28,111 [main] INFO log1 - Click on Add New button
+2022-01-07 12:27:29,164 - log1 -INFO - Enter Email Id
+2022-01-07 12:27:29,164 [main] INFO log1 - Enter Email Id
+2022-01-07 12:27:29,363 - log1 -INFO - Enter password 
+2022-01-07 12:27:29,363 [main] INFO log1 - Enter password 
+2022-01-07 12:27:29,563 - log1 -INFO - Enter first name
+2022-01-07 12:27:29,563 [main] INFO log1 - Enter first name
+2022-01-07 12:27:29,739 - log1 -INFO - Enter last name
+2022-01-07 12:27:29,739 [main] INFO log1 - Enter last name
+2022-01-07 12:27:29,914 - log1 -INFO - Enter comapny name
+2022-01-07 12:27:29,914 [main] INFO log1 - Enter comapny name
+2022-01-07 12:27:30,112 - log1 -INFO - Click on save button
+2022-01-07 12:27:30,112 [main] INFO log1 - Click on save button
+2022-01-07 12:27:31,371 - log1 -INFO - Click on logout button
+2022-01-07 12:27:31,371 [main] INFO log1 - Click on logout button
+2022-01-07 12:27:41,778 - log1 -INFO - Enter username
+2022-01-07 12:27:41,778 [main] INFO log1 - Enter username
+2022-01-07 12:27:41,944 - log1 -INFO - Enter password
+2022-01-07 12:27:41,944 [main] INFO log1 - Enter password
+2022-01-07 12:27:45,789 - log1 -INFO - Click on login button
+2022-01-07 12:27:45,789 [main] INFO log1 - Click on login button
+2022-01-07 12:27:57,078 - log1 -INFO - Click on customer tab
+2022-01-07 12:27:57,078 [main] INFO log1 - Click on customer tab
+2022-01-07 12:27:59,190 - log1 -INFO - Click on sub customer tab
+2022-01-07 12:27:59,190 [main] INFO log1 - Click on sub customer tab
+2022-01-07 12:28:04,277 - log1 -INFO - Click on search text
+2022-01-07 12:28:04,277 [main] INFO log1 - Click on search text
+2022-01-07 12:28:06,439 - log1 -INFO - Enter the email id
+2022-01-07 12:28:06,439 [main] INFO log1 - Enter the email id
+2022-01-07 12:28:12,568 - log1 -INFO - Click on search text
+2022-01-07 12:28:12,568 [main] INFO log1 - Click on search text
+2022-01-07 12:28:14,681 - log1 -INFO - Enter the email id
+2022-01-07 12:28:14,681 [main] INFO log1 - Enter the email id
+2022-01-07 12:28:16,845 - log1 -INFO - Click on search button
+2022-01-07 12:28:16,845 [main] INFO log1 - Click on search button
+2022-01-07 12:28:25,154 - log1 -INFO - Click on search text
+2022-01-07 12:28:25,154 [main] INFO log1 - Click on search text
+2022-01-07 12:28:27,243 - log1 -INFO - Enter the email id
+2022-01-07 12:28:27,243 [main] INFO log1 - Enter the email id
+2022-01-07 12:30:36,549 - log1 -INFO - Home page is launched
+2022-01-07 12:30:36,549 [main] INFO log1 - Home page is launched
+2022-01-07 12:30:44,453 - log1 -INFO - Click on Add New button
+2022-01-07 12:30:44,453 [main] INFO log1 - Click on Add New button
+2022-01-07 12:30:45,458 - log1 -INFO - Enter Email Id
+2022-01-07 12:30:45,458 [main] INFO log1 - Enter Email Id
+2022-01-07 12:30:45,693 - log1 -INFO - Enter password 
+2022-01-07 12:30:45,693 [main] INFO log1 - Enter password 
+2022-01-07 12:30:45,909 - log1 -INFO - Enter first name
+2022-01-07 12:30:45,909 [main] INFO log1 - Enter first name
+2022-01-07 12:30:46,115 - log1 -INFO - Enter last name
+2022-01-07 12:30:46,115 [main] INFO log1 - Enter last name
+2022-01-07 12:30:46,313 - log1 -INFO - Enter comapny name
+2022-01-07 12:30:46,313 [main] INFO log1 - Enter comapny name
+2022-01-07 12:30:46,510 - log1 -INFO - Click on save button
+2022-01-07 12:30:46,510 [main] INFO log1 - Click on save button
+2022-01-07 12:30:47,664 - log1 -INFO - Click on logout button
+2022-01-07 12:30:47,664 [main] INFO log1 - Click on logout button
+2022-01-07 12:30:53,956 - log1 -INFO - Enter username
+2022-01-07 12:30:53,956 [main] INFO log1 - Enter username
+2022-01-07 12:30:54,165 - log1 -INFO - Enter password
+2022-01-07 12:30:54,165 [main] INFO log1 - Enter password
+2022-01-07 12:30:57,606 - log1 -INFO - Click on login button
+2022-01-07 12:30:57,606 [main] INFO log1 - Click on login button
+2022-01-07 12:31:08,531 - log1 -INFO - Click on customer tab
+2022-01-07 12:31:08,531 [main] INFO log1 - Click on customer tab
+2022-01-07 12:31:10,658 - log1 -INFO - Click on sub customer tab
+2022-01-07 12:31:10,658 [main] INFO log1 - Click on sub customer tab
+2022-01-07 12:31:15,674 - log1 -INFO - Click on search text
+2022-01-07 12:31:15,674 [main] INFO log1 - Click on search text
+2022-01-07 12:31:17,811 - log1 -INFO - Enter the email id
+2022-01-07 12:31:17,811 [main] INFO log1 - Enter the email id
+2022-01-07 12:31:20,003 - log1 -INFO - Click on search button
+2022-01-07 12:31:20,003 [main] INFO log1 - Click on search button
+2022-01-07 12:31:28,330 - log1 -INFO - Click on search text
+2022-01-07 12:31:28,330 [main] INFO log1 - Click on search text
+2022-01-07 12:31:30,448 - log1 -INFO - Enter the email id
+2022-01-07 12:31:30,448 [main] INFO log1 - Enter the email id
+2022-01-07 12:31:36,531 - log1 -INFO - Click on search text
+2022-01-07 12:31:36,531 [main] INFO log1 - Click on search text
+2022-01-07 12:31:38,606 - log1 -INFO - Enter the email id
+2022-01-07 12:31:38,606 [main] INFO log1 - Enter the email id
+2022-01-07 12:31:40,732 - log1 -INFO - Click on search button
+2022-01-07 12:31:40,732 [main] INFO log1 - Click on search button
+2022-01-07 13:14:59,912 - log1 -INFO - Home page is launched
+2022-01-07 13:14:59,912 [main] INFO log1 - Home page is launched
+2022-01-07 13:15:08,322 - log1 -INFO - Click on Add New button
+2022-01-07 13:15:08,322 [main] INFO log1 - Click on Add New button
+2022-01-07 13:15:09,458 - log1 -INFO - Enter Email Id
+2022-01-07 13:15:09,458 [main] INFO log1 - Enter Email Id
+2022-01-07 13:15:09,668 - log1 -INFO - Enter password 
+2022-01-07 13:15:09,668 [main] INFO log1 - Enter password 
+2022-01-07 13:15:09,895 - log1 -INFO - Enter first name
+2022-01-07 13:15:09,895 [main] INFO log1 - Enter first name
+2022-01-07 13:15:10,089 - log1 -INFO - Enter last name
+2022-01-07 13:15:10,089 [main] INFO log1 - Enter last name
+2022-01-07 13:15:10,289 - log1 -INFO - Enter comapny name
+2022-01-07 13:15:10,289 [main] INFO log1 - Enter comapny name
+2022-01-07 13:15:10,460 - log1 -INFO - Click on save button
+2022-01-07 13:15:10,460 [main] INFO log1 - Click on save button
+2022-01-07 13:15:11,699 - log1 -INFO - Click on logout button
+2022-01-07 13:15:11,699 [main] INFO log1 - Click on logout button
+2022-01-07 13:15:18,107 - log1 -INFO - Enter username
+2022-01-07 13:15:18,107 [main] INFO log1 - Enter username
+2022-01-07 13:15:18,308 - log1 -INFO - Enter password
+2022-01-07 13:15:18,308 [main] INFO log1 - Enter password
+2022-01-07 13:15:22,505 - log1 -INFO - Click on login button
+2022-01-07 13:15:22,505 [main] INFO log1 - Click on login button
+2022-01-07 13:15:34,023 - log1 -INFO - Click on customer tab
+2022-01-07 13:15:34,023 [main] INFO log1 - Click on customer tab
+2022-01-07 13:15:36,127 - log1 -INFO - Click on sub customer tab
+2022-01-07 13:15:36,127 [main] INFO log1 - Click on sub customer tab
+2022-01-07 13:15:41,490 - log1 -INFO - Click on search text
+2022-01-07 13:15:41,490 [main] INFO log1 - Click on search text
+2022-01-07 13:15:43,618 - log1 -INFO - Enter the email id
+2022-01-07 13:15:43,618 [main] INFO log1 - Enter the email id
+2022-01-07 13:15:45,792 - log1 -INFO - Click on search button
+2022-01-07 13:15:45,792 [main] INFO log1 - Click on search button
+2022-01-07 13:17:18,384 - log1 -INFO - Home page is launched
+2022-01-07 13:17:18,384 [main] INFO log1 - Home page is launched
+2022-01-07 13:17:55,667 - log1 -INFO - Click on Add New button
+2022-01-07 13:17:55,667 [main] INFO log1 - Click on Add New button
+2022-01-07 13:17:59,074 - log1 -INFO - Enter Email Id
+2022-01-07 13:17:59,074 [main] INFO log1 - Enter Email Id
+2022-01-07 13:17:59,306 - log1 -INFO - Enter password 
+2022-01-07 13:17:59,306 [main] INFO log1 - Enter password 
+2022-01-07 13:17:59,475 - log1 -INFO - Enter first name
+2022-01-07 13:17:59,475 [main] INFO log1 - Enter first name
+2022-01-07 13:17:59,636 - log1 -INFO - Enter last name
+2022-01-07 13:17:59,636 [main] INFO log1 - Enter last name
+2022-01-07 13:17:59,787 - log1 -INFO - Enter comapny name
+2022-01-07 13:17:59,787 [main] INFO log1 - Enter comapny name
+2022-01-07 13:17:59,947 - log1 -INFO - Click on save button
+2022-01-07 13:17:59,947 [main] INFO log1 - Click on save button
+2022-01-07 13:18:01,467 - log1 -INFO - Click on logout button
+2022-01-07 13:18:01,467 [main] INFO log1 - Click on logout button
+2022-01-07 13:18:07,992 - log1 -INFO - Enter username
+2022-01-07 13:18:07,992 [main] INFO log1 - Enter username
+2022-01-07 13:18:08,148 - log1 -INFO - Enter password
+2022-01-07 13:18:08,148 [main] INFO log1 - Enter password
+2022-01-07 13:18:12,612 - log1 -INFO - Click on login button
+2022-01-07 13:18:12,612 [main] INFO log1 - Click on login button
+2022-01-07 13:18:23,963 - log1 -INFO - Click on customer tab
+2022-01-07 13:18:23,963 [main] INFO log1 - Click on customer tab
+2022-01-07 13:18:26,084 - log1 -INFO - Click on sub customer tab
+2022-01-07 13:18:26,084 [main] INFO log1 - Click on sub customer tab
+2022-01-07 13:18:31,170 - log1 -INFO - Click on search text
+2022-01-07 13:18:31,170 [main] INFO log1 - Click on search text
+2022-01-07 13:18:33,290 - log1 -INFO - Enter the email id
+2022-01-07 13:18:33,290 [main] INFO log1 - Enter the email id
+2022-01-07 13:18:39,390 - log1 -INFO - Click on search text
+2022-01-07 13:18:39,390 [main] INFO log1 - Click on search text
+2022-01-07 13:18:41,455 - log1 -INFO - Enter the email id
+2022-01-07 13:18:41,455 [main] INFO log1 - Enter the email id
+2022-01-07 13:18:43,565 - log1 -INFO - Click on search button
+2022-01-07 13:18:43,565 [main] INFO log1 - Click on search button
+2022-01-07 15:24:35,580 - log1 -INFO - Home page is launched
+2022-01-07 15:24:35,580 [main] INFO log1 - Home page is launched
+2022-01-07 15:24:43,596 - log1 -INFO - Click on Add New button
+2022-01-07 15:24:43,596 [main] INFO log1 - Click on Add New button
+2022-01-07 15:24:44,596 - log1 -INFO - Enter Email Id
+2022-01-07 15:24:44,596 [main] INFO log1 - Enter Email Id
+2022-01-07 15:24:44,821 - log1 -INFO - Enter password 
+2022-01-07 15:24:44,821 [main] INFO log1 - Enter password 
+2022-01-07 15:24:45,009 - log1 -INFO - Enter first name
+2022-01-07 15:24:45,009 [main] INFO log1 - Enter first name
+2022-01-07 15:24:45,177 - log1 -INFO - Enter last name
+2022-01-07 15:24:45,177 [main] INFO log1 - Enter last name
+2022-01-07 15:24:45,337 - log1 -INFO - Enter comapny name
+2022-01-07 15:24:45,337 [main] INFO log1 - Enter comapny name
+2022-01-07 15:24:45,487 - log1 -INFO - Click on save button
+2022-01-07 15:24:45,487 [main] INFO log1 - Click on save button
+2022-01-07 15:24:46,560 - log1 -INFO - Click on logout button
+2022-01-07 15:24:46,560 [main] INFO log1 - Click on logout button
+2022-01-07 15:24:53,328 - log1 -INFO - Enter username
+2022-01-07 15:24:53,328 [main] INFO log1 - Enter username
+2022-01-07 15:24:53,501 - log1 -INFO - Enter password
+2022-01-07 15:24:53,501 [main] INFO log1 - Enter password
+2022-01-07 15:24:57,163 - log1 -INFO - Click on login button
+2022-01-07 15:24:57,163 [main] INFO log1 - Click on login button
+2022-01-07 15:25:09,154 - log1 -INFO - Click on customer tab
+2022-01-07 15:25:09,154 [main] INFO log1 - Click on customer tab
+2022-01-07 15:25:11,261 - log1 -INFO - Click on sub customer tab
+2022-01-07 15:25:11,261 [main] INFO log1 - Click on sub customer tab
+2022-01-07 15:25:16,132 - log1 -INFO - Click on search text
+2022-01-07 15:25:16,132 [main] INFO log1 - Click on search text
+2022-01-07 15:25:18,218 - log1 -INFO - Enter the email id
+2022-01-07 15:25:18,218 [main] INFO log1 - Enter the email id
+2022-01-07 15:25:24,305 - log1 -INFO - Click on search text
+2022-01-07 15:25:24,305 [main] INFO log1 - Click on search text
+2022-01-07 15:25:26,397 - log1 -INFO - Enter the email id
+2022-01-07 15:25:26,397 [main] INFO log1 - Enter the email id
+2022-01-07 15:25:28,543 - log1 -INFO - Click on search button
+2022-01-07 15:25:28,543 [main] INFO log1 - Click on search button
+2022-01-07 15:28:16,640 - log1 -INFO - Home page is launched
+2022-01-07 15:28:16,640 [main] INFO log1 - Home page is launched
+2022-01-07 15:28:16,728 - log1 -INFO - Home page is launched
+2022-01-07 15:28:16,728 [main] INFO log1 - Home page is launched
+2022-01-07 15:28:16,754 - log1 -INFO - Home page is launched
+2022-01-07 15:28:16,754 [main] INFO log1 - Home page is launched
+2022-01-07 15:33:40,743 - log1 -INFO - Home page is launched
+2022-01-07 15:33:40,743 [main] INFO log1 - Home page is launched
+2022-01-07 15:33:40,827 - log1 -INFO - Home page is launched
+2022-01-07 15:33:40,827 [main] INFO log1 - Home page is launched
+2022-01-07 15:33:42,861 - log1 -INFO - Click on Add New button
+2022-01-07 15:33:42,861 [main] INFO log1 - Click on Add New button
+2022-01-07 15:33:44,899 - log1 -INFO - Click on Add New button
+2022-01-07 15:33:44,899 [main] INFO log1 - Click on Add New button
+2022-01-07 15:33:44,921 - log1 -INFO - Click on logout button
+2022-01-07 15:33:44,921 [main] INFO log1 - Click on logout button
+2022-01-07 15:33:44,948 - log1 -INFO - Click on logout button
+2022-01-07 15:33:44,948 [main] INFO log1 - Click on logout button
+2022-01-07 15:33:57,470 - log1 -INFO - Click on customer tab
+2022-01-07 15:33:57,470 [main] INFO log1 - Click on customer tab
+2022-01-07 15:33:58,498 - log1 -INFO - Click on customer tab
+2022-01-07 15:33:58,498 [main] INFO log1 - Click on customer tab
+2022-01-07 15:34:00,523 - log1 -INFO - Click on sub customer tab
+2022-01-07 15:34:00,523 [main] INFO log1 - Click on sub customer tab
+2022-01-07 15:34:02,560 - log1 -INFO - Click on sub customer tab
+2022-01-07 15:34:02,560 [main] INFO log1 - Click on sub customer tab
+2022-01-07 15:34:06,581 - log1 -INFO - Click on search text
+2022-01-07 15:34:06,581 [main] INFO log1 - Click on search text
+2022-01-07 15:34:12,610 - log1 -INFO - Click on search text
+2022-01-07 15:34:12,610 [main] INFO log1 - Click on search text
+2022-01-09 13:20:29,243 - log1 -INFO - Enter username
+2022-01-09 13:20:29,243 [main] INFO log1 - Enter username
+2022-01-09 13:20:29,407 - log1 -INFO - Enter password
+2022-01-09 13:20:29,407 [main] INFO log1 - Enter password
+2022-01-09 13:20:33,184 - log1 -INFO - Click on login button
+2022-01-09 13:20:33,184 [main] INFO log1 - Click on login button

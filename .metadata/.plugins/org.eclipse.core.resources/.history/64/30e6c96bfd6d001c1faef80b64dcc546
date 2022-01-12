@@ -1,0 +1,38 @@
+package orPages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class LoginPage{
+	WebDriver driver;
+public LoginPage(WebDriver rdriver){
+	this.driver=rdriver;
+	PageFactory.initElements(driver, this);
+}
+	
+	@FindBy(id = "txtUsername")
+	WebElement txtUsername;
+	@FindBy(name="txtPassword")
+	WebElement txtPassword;
+	@FindBy(xpath = "//input[contains(@type,'submit')]")
+	WebElement clickLogin;
+	public String getUn(String un) {
+		txtUsername.clear();
+		txtUsername.sendKeys(un);
+		return un;
+	}
+		public String getpwd(String pwd) {
+			txtUsername.clear();
+			txtUsername.sendKeys(pwd);
+			return pwd;
+		}
+			public void clickLoginButton() {
+				clickLogin.click();
+				
+		
+	}
+	
+
+}

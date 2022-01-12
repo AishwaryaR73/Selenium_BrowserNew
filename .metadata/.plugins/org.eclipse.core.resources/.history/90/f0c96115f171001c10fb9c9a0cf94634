@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="listners.TestMessage"></listener>
+		<listener class-name="listners.ExtentExample"></listener>
+		<listener class-name="listners.MyTransformerListner"></listener>
+	</listeners>
+
+
+
+	<test name="Test">
+		<classes>
+			<class name="nopCommerceTests.AddCustomer" />
+			<class name="nopCommerceTests.SearchCustomer" />
+			<!-- <class name="nopCommerceTests.BrokenLinks"/> -->
+			<class name="nopCommerceTests.LoginTest" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

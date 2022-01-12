@@ -1,0 +1,38 @@
+2021-12-27 11:54:00,904 - LT_Logger -INFO - Verify the Nop title
+2021-12-27 11:54:00,969 - LT_Logger -INFO - Clear the email text
+2021-12-27 11:54:01,054 - LT_Logger -INFO - Enter the email
+2021-12-27 11:54:01,172 - LT_Logger -INFO - Clear the password text
+2021-12-27 11:54:01,252 - LT_Logger -INFO - Enter the password
+2021-12-27 11:54:01,328 - LT_Logger -INFO - Click on submit button
+2021-12-27 12:11:28,002 - LT_Logger -INFO - Verify the Nop title
+2021-12-27 12:11:28,002 [main] INFO LT_Logger - Verify the Nop title
+2021-12-27 12:11:28,070 - LT_Logger -INFO - Clear the email text
+2021-12-27 12:11:28,070 [main] INFO LT_Logger - Clear the email text
+2021-12-27 12:11:28,155 - LT_Logger -INFO - Enter the email
+2021-12-27 12:11:28,155 [main] INFO LT_Logger - Enter the email
+2021-12-27 12:11:28,278 - LT_Logger -INFO - Clear the password text
+2021-12-27 12:11:28,278 [main] INFO LT_Logger - Clear the password text
+2021-12-27 12:11:28,366 - LT_Logger -INFO - Enter the password
+2021-12-27 12:11:28,366 [main] INFO LT_Logger - Enter the password
+2021-12-27 12:11:28,449 - LT_Logger -INFO - Click on submit button
+2021-12-27 12:11:28,449 [main] INFO LT_Logger - Click on submit button
+2021-12-27 12:15:31,646 - LT_Logger -INFO - Verify the Nop title
+2021-12-27 12:15:31,646 [main] INFO LT_Logger - Verify the Nop title
+2021-12-27 12:15:31,697 - LT_Logger -INFO - Clear the email text
+2021-12-27 12:15:31,697 [main] INFO LT_Logger - Clear the email text
+2021-12-27 12:15:31,777 - LT_Logger -INFO - Enter the email
+2021-12-27 12:15:31,777 [main] INFO LT_Logger - Enter the email
+2021-12-27 12:15:31,890 - LT_Logger -INFO - Clear the password text
+2021-12-27 12:15:31,890 [main] INFO LT_Logger - Clear the password text
+2021-12-27 12:15:31,968 - LT_Logger -INFO - Enter the password
+2021-12-27 12:15:31,968 [main] INFO LT_Logger - Enter the password
+2021-12-27 12:15:32,041 - LT_Logger -INFO - Click on submit button
+2021-12-27 12:15:32,041 [main] INFO LT_Logger - Click on submit button
+2021-12-27 16:19:48,887 - log1 -INFO - Enter username
+2021-12-27 16:19:48,887 [main] INFO log1 - Enter username
+2021-12-27 16:19:49,048 - log1 -INFO - Enter password
+2021-12-27 16:19:49,048 [main] INFO log1 - Enter password
+2021-12-27 16:19:53,034 - log1 -INFO - Click on login button
+2021-12-27 16:19:53,034 [main] INFO log1 - Click on login button
+2021-12-27 16:19:53,765 - log1 -INFO - Click on logout
+2021-12-27 16:19:53,765 [main] INFO log1 - Click on logout

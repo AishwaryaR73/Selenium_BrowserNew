@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\admin\eclipse-workspace\com.org.lnt.training\src\test\java"/>
+			<item value="C:\Users\admin\eclipse-workspace\com.org.lnt.training\src\test\java\nopTests\AddCuss.java"/>
+			<item value="C:\Users\admin\eclipse-workspace\com.org.lnt.training"/>
+			<item value="C:\Users\admin\eclipse-workspace\SeleniumAutomationTraining\src\automateAlerts\Amazon.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.lt.sql.example"/>
+			<item value="lnt.com.pom.example"/>
+			<item value="cucumber.com.lnt"/>
+			<item value="com.bdd.selenium"/>
+			<item value="com.org.lnt.bdd.seleniumcucumber.bdd"/>
+			<item value="com.lnt.seleniuimgrid"/>
+			<item value="com.lnt.seleniumgrid"/>
+			<item value="com.org.lnt"/>
+			<item value="com.test.demo"/>
+		</list>
+		<list key="name">
+			<item value="OrangeHRM"/>
+			<item value="Cucumber"/>
+			<item value="BDD Framework"/>
+			<item value="selenium cucumber"/>
+			<item value="selenium grid"/>
+			<item value="SeleniumGrid"/>
+			<item value="SeleniumAutomation"/>
+		</list>
+		<list key="artifactId">
+			<item value="com.lt.sql.example"/>
+			<item value="lnt.com.pom.example"/>
+			<item value="cucumber.com.lnt"/>
+			<item value="com.bdd.selenium"/>
+			<item value="com.org.lnt.bdd.seleniumcucumber"/>
+			<item value="com.lnt.seleniuimgrid"/>
+			<item value="com.lnt.seleniumgrid"/>
+			<item value="com.org.lnt.training"/>
+			<item value="com.test.demo.automation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SeleniumPythonExample"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SeleniumPythonExample"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
