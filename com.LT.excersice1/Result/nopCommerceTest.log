@@ -1,0 +1,6 @@
+2022-01-13 13:57:10,719 - swagLabs_log -INFO - Enter username
+2022-01-13 13:57:10,719 [main] INFO swagLabs_log - Enter username
+2022-01-13 13:57:10,889 - swagLabs_log -INFO - Enter password
+2022-01-13 13:57:10,889 [main] INFO swagLabs_log - Enter password
+2022-01-13 13:57:11,029 - swagLabs_log -INFO - Click on login button
+2022-01-13 13:57:11,029 [main] INFO swagLabs_log - Click on login button

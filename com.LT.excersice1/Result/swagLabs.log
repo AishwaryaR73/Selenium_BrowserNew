@@ -1,0 +1,162 @@
+2022-01-13 14:12:15,386 - swagLabs_log -INFO - Enter username
+2022-01-13 14:12:15,386 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:12:15,593 - swagLabs_log -INFO - Enter password
+2022-01-13 14:12:15,593 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:12:15,835 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:12:15,835 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:13:25,122 - swagLabs_log -INFO - Enter username
+2022-01-13 14:13:25,122 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:13:25,292 - swagLabs_log -INFO - Enter password
+2022-01-13 14:13:25,292 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:13:25,429 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:13:25,429 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:13:26,418 - swagLabs_log -INFO - sucess
+2022-01-13 14:13:26,418 [main] INFO swagLabs_log - sucess
+2022-01-13 14:14:20,532 - swagLabs_log -INFO - Enter username
+2022-01-13 14:14:20,532 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:14:20,713 - swagLabs_log -INFO - Enter password
+2022-01-13 14:14:20,713 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:14:20,881 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:14:20,881 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:14:21,104 - swagLabs_log -INFO - Verify the page title
+2022-01-13 14:14:21,104 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 14:14:21,746 - swagLabs_log -INFO - sucess
+2022-01-13 14:14:21,746 [main] INFO swagLabs_log - sucess
+2022-01-13 14:17:31,894 - swagLabs_log -INFO - Enter username
+2022-01-13 14:17:31,894 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:17:32,097 - swagLabs_log -INFO - Enter password
+2022-01-13 14:17:32,097 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:17:32,288 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:17:32,288 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:17:32,517 - swagLabs_log -INFO - Verify the page title
+2022-01-13 14:17:32,517 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 14:17:33,271 - swagLabs_log -INFO - sucess
+2022-01-13 14:17:33,271 [main] INFO swagLabs_log - sucess
+2022-01-13 14:34:53,870 - swagLabs_log -INFO - Enter username
+2022-01-13 14:34:53,870 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:34:54,051 - swagLabs_log -INFO - Enter password
+2022-01-13 14:34:54,051 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:34:54,221 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:34:54,221 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:34:54,424 - swagLabs_log -INFO - Verify the page title
+2022-01-13 14:34:54,424 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 14:53:47,343 - swagLabs_log -INFO - Enter username
+2022-01-13 14:53:47,343 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:53:47,525 - swagLabs_log -INFO - Enter password
+2022-01-13 14:53:47,525 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:53:47,669 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:53:47,669 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:53:47,901 - swagLabs_log -INFO - Verify the page title
+2022-01-13 14:53:47,901 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 14:53:48,167 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 14:53:48,167 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 14:53:48,525 - swagLabs_log -INFO - Select sub  A to Z dropdown
+2022-01-13 14:53:48,525 [main] INFO swagLabs_log - Select sub  A to Z dropdown
+2022-01-13 14:53:48,610 - swagLabs_log -INFO - Select Z to A dropdown
+2022-01-13 14:53:48,610 [main] INFO swagLabs_log - Select Z to A dropdown
+2022-01-13 14:53:48,705 - swagLabs_log -INFO - Select Price Low to High dropdown
+2022-01-13 14:53:48,705 [main] INFO swagLabs_log - Select Price Low to High dropdown
+2022-01-13 14:57:45,187 - swagLabs_log -INFO - Enter username
+2022-01-13 14:57:45,187 [main] INFO swagLabs_log - Enter username
+2022-01-13 14:57:45,367 - swagLabs_log -INFO - Enter password
+2022-01-13 14:57:45,367 [main] INFO swagLabs_log - Enter password
+2022-01-13 14:57:45,505 - swagLabs_log -INFO - Click on login button
+2022-01-13 14:57:45,505 [main] INFO swagLabs_log - Click on login button
+2022-01-13 14:57:45,749 - swagLabs_log -INFO - Verify the page title
+2022-01-13 14:57:45,749 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 14:57:46,036 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 14:57:46,036 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 14:57:46,186 - swagLabs_log -INFO - Select sub  A to Z dropdown
+2022-01-13 14:57:46,186 [main] INFO swagLabs_log - Select sub  A to Z dropdown
+2022-01-13 14:57:46,436 - swagLabs_log -INFO - Select Z to A dropdown
+2022-01-13 14:57:46,436 [main] INFO swagLabs_log - Select Z to A dropdown
+2022-01-13 14:57:46,515 - swagLabs_log -INFO - Select Price Low to High dropdown
+2022-01-13 14:57:46,515 [main] INFO swagLabs_log - Select Price Low to High dropdown
+2022-01-13 15:10:25,921 - swagLabs_log -INFO - Enter username
+2022-01-13 15:10:25,921 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:10:26,122 - swagLabs_log -INFO - Enter password
+2022-01-13 15:10:26,122 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:10:26,314 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:10:26,314 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:10:26,611 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:10:26,611 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:10:27,052 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:10:27,052 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:14:00,953 - swagLabs_log -INFO - Enter username
+2022-01-13 15:14:00,953 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:14:01,126 - swagLabs_log -INFO - Enter password
+2022-01-13 15:14:01,126 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:14:01,261 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:14:01,261 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:14:01,481 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:14:01,481 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:14:01,662 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:14:01,662 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:15:19,736 - swagLabs_log -INFO - Enter username
+2022-01-13 15:15:19,736 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:15:19,976 - swagLabs_log -INFO - Enter password
+2022-01-13 15:15:19,976 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:15:20,152 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:15:20,152 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:15:20,372 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:15:20,372 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:15:20,666 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:15:20,666 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:16:07,174 - swagLabs_log -INFO - Enter username
+2022-01-13 15:16:07,174 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:16:07,347 - swagLabs_log -INFO - Enter password
+2022-01-13 15:16:07,347 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:16:07,494 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:16:07,494 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:16:07,760 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:16:07,760 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:16:08,049 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:16:08,049 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:19:50,461 - swagLabs_log -INFO - Enter username
+2022-01-13 15:19:50,461 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:19:50,667 - swagLabs_log -INFO - Enter password
+2022-01-13 15:19:50,667 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:19:50,854 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:19:50,854 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:19:51,130 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:19:51,130 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:19:51,478 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:19:51,478 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:19:52,013 - swagLabs_log -INFO - Select sub  A to Z dropdown
+2022-01-13 15:19:52,013 [main] INFO swagLabs_log - Select sub  A to Z dropdown
+2022-01-13 15:19:52,134 - swagLabs_log -INFO - Select Z to A dropdown
+2022-01-13 15:19:52,134 [main] INFO swagLabs_log - Select Z to A dropdown
+2022-01-13 15:19:52,253 - swagLabs_log -INFO - Select Price Low to High dropdown
+2022-01-13 15:19:52,253 [main] INFO swagLabs_log - Select Price Low to High dropdown
+2022-01-13 15:26:07,302 - swagLabs_log -INFO - Enter username
+2022-01-13 15:26:07,302 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:26:07,464 - swagLabs_log -INFO - Enter password
+2022-01-13 15:26:07,464 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:26:07,647 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:26:07,647 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:26:07,878 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:26:07,878 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:26:08,172 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:26:08,172 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:26:08,588 - swagLabs_log -INFO - Select sub  A to Z dropdown
+2022-01-13 15:26:08,588 [main] INFO swagLabs_log - Select sub  A to Z dropdown
+2022-01-13 15:26:08,689 - swagLabs_log -INFO - Select Z to A dropdown
+2022-01-13 15:26:08,689 [main] INFO swagLabs_log - Select Z to A dropdown
+2022-01-13 15:26:08,777 - swagLabs_log -INFO - Select Price Low to High dropdown
+2022-01-13 15:26:08,777 [main] INFO swagLabs_log - Select Price Low to High dropdown
+2022-01-13 15:27:42,056 - swagLabs_log -INFO - Enter username
+2022-01-13 15:27:42,056 [main] INFO swagLabs_log - Enter username
+2022-01-13 15:27:42,244 - swagLabs_log -INFO - Enter password
+2022-01-13 15:27:42,244 [main] INFO swagLabs_log - Enter password
+2022-01-13 15:27:42,410 - swagLabs_log -INFO - Click on login button
+2022-01-13 15:27:42,410 [main] INFO swagLabs_log - Click on login button
+2022-01-13 15:27:42,623 - swagLabs_log -INFO - Verify the page title
+2022-01-13 15:27:42,623 [main] INFO swagLabs_log - Verify the page title
+2022-01-13 15:27:42,931 - swagLabs_log -INFO - Select A to Z dropdown
+2022-01-13 15:27:42,931 [main] INFO swagLabs_log - Select A to Z dropdown
+2022-01-13 15:27:43,432 - swagLabs_log -INFO - Select sub  A to Z dropdown
+2022-01-13 15:27:43,432 [main] INFO swagLabs_log - Select sub  A to Z dropdown
+2022-01-13 15:27:43,545 - swagLabs_log -INFO - Select Z to A dropdown
+2022-01-13 15:27:43,545 [main] INFO swagLabs_log - Select Z to A dropdown
+2022-01-13 15:27:43,649 - swagLabs_log -INFO - Select Price Low to High dropdown
+2022-01-13 15:27:43,649 [main] INFO swagLabs_log - Select Price Low to High dropdown
